@@ -41,7 +41,7 @@ a,
 a:link,
 a:visited,
 a:active {
-  color: #d7ecff;
+  color: darkblue;
   border-bottom: 1px dotted #d7ecff;
   cursor: pointer;
   transition: text-shadow 0.3s ease, border-bottom-color 0.5s ease;
@@ -545,4 +545,15 @@ figure.highlight table tbody tr td pre .clojure .title {
 }
 figure.highlight table tbody tr td pre .deletion {
   color: #dc322f;
+}
+
+#myInput {
+  background-image: "/icons/searchicon.png"; /* Add a search icon to input */
+  background-position: 10px 12px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 100%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
 }
