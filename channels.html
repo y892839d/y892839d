@@ -2,12 +2,27 @@
                 <html>
             <head>
                 <title> Channels </title>
+                <meta name="robots" content="noindex,nofollow">
                 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
                 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
                 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
                 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
                 <script src="./js/searcher.js"></script>
 				<link rel="stylesheet" href="./css/style.css">
+                <script>
+				document.onkeyup = function(e){
+					e.stopPropagation();
+					e.preventDefault();
+					// (Rewind) Back to the top (227)
+					if(e.keyCode == 227){
+					    window.scrollTo({top: 0, behavior: 'smooth'});
+					}
+					// (Play/Pause) Search
+					if(e.keyCode == 179){
+						alert("179");
+					}
+				}
+				</script>
             </head>
         <body>
             
@@ -25,7 +40,7 @@
             <h5 class='mb-1'># By [@manuk0s] [* Evento Del Día *]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://2c3a3a5b81b5fbe2345eccacad509ced55de828a'>ACE 0</option><option value='acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487'>ACE 1</option><option value='acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175'>ACE 2</option><option value='acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28'>ACE 3</option><option value='acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94'>ACE 4</option><option value='acestream://f2b785193cfa99c581287be39e2fb5a73827957b'>ACE 5</option><option value='acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b'>ACE 6</option><option value='acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1'>ACE 7</option><option value='acestream://c72263175266c90d376dcb8607c28e02939c1873'>ACE 8</option><option value='acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535'>ACE 9</option><option value='acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3'>ACE 10</option><option value='acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6'>ACE 11</option><option value='acestream://3441c0e7a316b4e19b818f546aaa480cfa90bd83'>ACE 12</option><option value='acestream://8021cba61d1e0891a41a6c3334f947360000dc8e'>ACE 13</option><option value='acestream://df139bbcd7ae6825b46d5955c52d639f1215346a'>ACE 14</option><option value='acestream://699d5ea3b0132a0e9c2c381a86a669b77384977c'>ACE 15</option><option value='acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a'>ACE 16</option></select>
+<option value='acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b'>ACE 0</option><option value='acestream://c72263175266c90d376dcb8607c28e02939c1873'>ACE 1</option><option value='acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94'>ACE 2</option><option value='acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487'>ACE 3</option><option value='acestream://2c3a3a5b81b5fbe2345eccacad509ced55de828a'>ACE 4</option><option value='acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6'>ACE 5</option><option value='acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a'>ACE 6</option><option value='acestream://3441c0e7a316b4e19b818f546aaa480cfa90bd83'>ACE 7</option><option value='acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3'>ACE 8</option><option value='acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1'>ACE 9</option><option value='acestream://df139bbcd7ae6825b46d5955c52d639f1215346a'>ACE 10</option><option value='acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28'>ACE 11</option><option value='acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175'>ACE 12</option><option value='acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535'>ACE 13</option><option value='acestream://f2b785193cfa99c581287be39e2fb5a73827957b'>ACE 14</option><option value='acestream://699d5ea3b0132a0e9c2c381a86a669b77384977c'>ACE 15</option><option value='acestream://8021cba61d1e0891a41a6c3334f947360000dc8e'>ACE 16</option></select>
                         </div>
                         </a>
                         
@@ -58,7 +73,7 @@
             <h5 class='mb-1'>1 [pl]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://68822500e44ec333c33877c9f602ea47a4791106'>ACE 0</option><option value='acestream://9def614ad2e9dab30a710ecb6868b4ed3746ca4e'>ACE 1</option></select>
+<option value='acestream://9def614ad2e9dab30a710ecb6868b4ed3746ca4e'>ACE 0</option><option value='acestream://68822500e44ec333c33877c9f602ea47a4791106'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -91,7 +106,7 @@
             <h5 class='mb-1'>Abu Dhabi Sports 1</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://4e4f34c08db6ca8d08283fe9dd03266f9b7975af'>ACE 0</option><option value='acestream://ca9caf56de3a8d804392e43bb4eb6284b7e246c6'>ACE 1</option></select>
+<option value='acestream://db9563b7df35f7be986bc322f00801323d1940c4'>ACE 0</option><option value='acestream://ca9caf56de3a8d804392e43bb4eb6284b7e246c6'>ACE 1</option><option value='acestream://4e4f34c08db6ca8d08283fe9dd03266f9b7975af'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -102,7 +117,7 @@
             <h5 class='mb-1'>Acestream Id</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca'>ACE 0</option><option value='acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2'>ACE 1</option><option value='acestream://c81fb4bec54fed86737544c5609bb863b4acb292'>ACE 2</option><option value='acestream://4a92829d3999190dcc11118c5388132b19ac5175'>ACE 3</option><option value='acestream://65c141632af256d70da66c767ba74360042b4396'>ACE 4</option><option value='acestream://069431a1199eb2545a14c0a724095e57bdc58e9c'>ACE 5</option><option value='acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2'>ACE 6</option><option value='acestream://df98650743f24a245c44cdf2851e57078f4c487a'>ACE 7</option><option value='acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4'>ACE 8</option><option value='acestream://9f27ea73230f9c65034601636dbfe39de43a8212'>ACE 9</option><option value='acestream://0e0fa349701524bf0cb7418dd12ed36fbd8ab29a'>ACE 10</option><option value='acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05'>ACE 11</option><option value='acestream://edfa1c981ad5dac59b6413434a7e69f40c57ab4d'>ACE 12</option><option value='acestream://f3f14b89eb62839f97153593432370b5bd61a5df'>ACE 13</option><option value='acestream://887d91ccc27fd4f3097d6df09448ea7bac8910f4'>ACE 14</option><option value='acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf'>ACE 15</option><option value='acestream://c35d2207792128fc0ae49c40e885c463f664dbce'>ACE 16</option><option value='acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae'>ACE 17</option><option value='acestream://d8512e64f34a117afb656f5c66cf8d88023c9570'>ACE 18</option><option value='acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e'>ACE 19</option><option value='acestream://c372020ed2744033f56548b6beb11a9f3e740f37'>ACE 20</option><option value='acestream://8bc9696c5b07b723186ac224f5269f02db6dde8e'>ACE 21</option><option value='acestream://b4d0c55b2a918da310e521b363e1f038247a11b3'>ACE 22</option><option value='acestream://c2cd03703ed2a6039668778cb4a36544a7c951ed'>ACE 23</option><option value='acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c'>ACE 24</option><option value='acestream://a0465ef421f30d0c68ff706654147762ec7b6c03'>ACE 25</option><option value='acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11'>ACE 26</option></select>
+<option value='acestream://c35d2207792128fc0ae49c40e885c463f664dbce'>ACE 0</option><option value='acestream://4a92829d3999190dcc11118c5388132b19ac5175'>ACE 1</option><option value='acestream://f3f14b89eb62839f97153593432370b5bd61a5df'>ACE 2</option><option value='acestream://b4d0c55b2a918da310e521b363e1f038247a11b3'>ACE 3</option><option value='acestream://c372020ed2744033f56548b6beb11a9f3e740f37'>ACE 4</option><option value='acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae'>ACE 5</option><option value='acestream://c2cd03703ed2a6039668778cb4a36544a7c951ed'>ACE 6</option><option value='acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2'>ACE 7</option><option value='acestream://887d91ccc27fd4f3097d6df09448ea7bac8910f4'>ACE 8</option><option value='acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2'>ACE 9</option><option value='acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11'>ACE 10</option><option value='acestream://65c141632af256d70da66c767ba74360042b4396'>ACE 11</option><option value='acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e'>ACE 12</option><option value='acestream://069431a1199eb2545a14c0a724095e57bdc58e9c'>ACE 13</option><option value='acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf'>ACE 14</option><option value='acestream://df98650743f24a245c44cdf2851e57078f4c487a'>ACE 15</option><option value='acestream://edfa1c981ad5dac59b6413434a7e69f40c57ab4d'>ACE 16</option><option value='acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05'>ACE 17</option><option value='acestream://9f27ea73230f9c65034601636dbfe39de43a8212'>ACE 18</option><option value='acestream://d8512e64f34a117afb656f5c66cf8d88023c9570'>ACE 19</option><option value='acestream://a0465ef421f30d0c68ff706654147762ec7b6c03'>ACE 20</option><option value='acestream://c81fb4bec54fed86737544c5609bb863b4acb292'>ACE 21</option><option value='acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4'>ACE 22</option><option value='acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca'>ACE 23</option><option value='acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c'>ACE 24</option><option value='acestream://8bc9696c5b07b723186ac224f5269f02db6dde8e'>ACE 25</option><option value='acestream://0e0fa349701524bf0cb7418dd12ed36fbd8ab29a'>ACE 26</option></select>
                         </div>
                         </a>
                         
@@ -124,7 +139,7 @@
             <h5 class='mb-1'>Alfa Omega Tv</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://1ad7a4f8e4989d4d4fcf7e7de9f630c24f8c5425'>ACE 0</option><option value='acestream://bd86c2bd539f02aa3046fe0189da28cd8d39a6b6'>ACE 1</option><option value='acestream://3c8dc70251bf4ddf06028882b8edf6264261b269'>ACE 2</option></select>
+<option value='acestream://bd86c2bd539f02aa3046fe0189da28cd8d39a6b6'>ACE 0</option><option value='acestream://1ad7a4f8e4989d4d4fcf7e7de9f630c24f8c5425'>ACE 1</option><option value='acestream://3c8dc70251bf4ddf06028882b8edf6264261b269'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -322,7 +337,7 @@
             <h5 class='mb-1'>Bcu Premiere [ru]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://52b5bbf1d3a9640f8a186e848f021bfc3daf1154'>ACE 0</option><option value='acestream://22da1ac893c3daf4035261c84e828c8020648187'>ACE 1</option><option value='acestream://bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7'>ACE 2</option></select>
+<option value='acestream://bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7'>ACE 0</option><option value='acestream://22da1ac893c3daf4035261c84e828c8020648187'>ACE 1</option><option value='acestream://52b5bbf1d3a9640f8a186e848f021bfc3daf1154'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -356,6 +371,17 @@
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
 <option value='acestream://59623cb797c031a5aa4922eb219851547cb346b0'>ACE 0</option><option value='acestream://ffa797e65b8307a13b2805284e28295884c7e7e1'>ACE 1</option></select>
+                        </div>
+                        </a>
+                        
+            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
+
+		    <div class="d-flex w-100 justify-content-between">
+
+            <h5 class='mb-1'>Bein Sport 1</h5>
+<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
+<option value=''>Link</option>
+<option value='acestream://81369fa3c050a05b8347d17d62da13886c2f0e97'>ACE 0</option><option value='acestream://54cbfaf8ad446499aae28ae50b512d95c263f811'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -421,7 +447,7 @@
             <h5 class='mb-1'>Bein Sports 3 [be]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8'>ACE 0</option><option value='acestream://5323ccadb659f7d3cb5fa2e5835c5af362e144d6'>ACE 1</option></select>
+<option value='acestream://5323ccadb659f7d3cb5fa2e5835c5af362e144d6'>ACE 0</option><option value='acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -462,17 +488,6 @@
 
 		    <div class="d-flex w-100 justify-content-between">
 
-            <h5 class='mb-1'>Bein Sports Xtra</h5>
-<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
-<option value=''>Link</option>
-<option value='acestream://99cd305570157bce1ff7933c4e984a5dcdcbaae5'>ACE 0</option><option value='acestream://bc93e4025f4e661367f362e74e680bc247d4ed4e'>ACE 1</option></select>
-                        </div>
-                        </a>
-                        
-            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
-
-		    <div class="d-flex w-100 justify-content-between">
-
             <h5 class='mb-1'>Bein Sports Xtra Ñ</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
@@ -498,7 +513,7 @@
             <h5 class='mb-1'>Bt Sport 1</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://96c01bdc2600f58b72fd86b347288f4e6937deb3'>ACE 0</option><option value='acestream://c081d8103a2c35749015111ca9a63dc3ef0a0d29'>ACE 1</option><option value='acestream://b81cea9e918e1f99d213dda75105bcda529df3ff'>ACE 2</option><option value='acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b'>ACE 3</option></select>
+<option value='acestream://96c01bdc2600f58b72fd86b347288f4e6937deb3'>ACE 0</option><option value='acestream://c081d8103a2c35749015111ca9a63dc3ef0a0d29'>ACE 1</option><option value='acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b'>ACE 2</option><option value='acestream://b81cea9e918e1f99d213dda75105bcda529df3ff'>ACE 3</option></select>
                         </div>
                         </a>
                         
@@ -520,7 +535,7 @@
             <h5 class='mb-1'>Bt Sport 2</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801'>ACE 0</option><option value='acestream://ac3a7d284354352cb15637ba4ed0d682dadbfe55'>ACE 1</option></select>
+<option value='acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801'>ACE 0</option></select>
                         </div>
                         </a>
                         
@@ -608,7 +623,7 @@
             <h5 class='mb-1'>Cuatro</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://36e777b34e35460f4fd72d9583a2f8c0598d7ec2'>ACE 0</option><option value='acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c'>ACE 1</option><option value='acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4'>ACE 2</option></select>
+<option value='acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c'>ACE 0</option><option value='acestream://36e777b34e35460f4fd72d9583a2f8c0598d7ec2'>ACE 1</option><option value='acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -619,7 +634,7 @@
             <h5 class='mb-1'>Dazn 1</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://8bfb4773491f1520ac3e4d7ddfd77e83e89ec942'>ACE 0</option><option value='acestream://84af46abab9de02bdd22818747738cfa5438132e'>ACE 1</option><option value='acestream://1d20c5e3cc71f2b98032fda742af8949a16b43b3'>ACE 2</option><option value='acestream://b0c4a7fa5a8dd48d611fba0a8ab54f06c29ff9f8'>ACE 3</option><option value='acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c'>ACE 4</option><option value='acestream://dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da'>ACE 5</option><option value='acestream://9f27ea73230f9c65034601636dbfe39de43a8212'>ACE 6</option><option value='acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05'>ACE 7</option></select>
+<option value='acestream://8bfb4773491f1520ac3e4d7ddfd77e83e89ec942'>ACE 0</option><option value='acestream://84af46abab9de02bdd22818747738cfa5438132e'>ACE 1</option><option value='acestream://b0c4a7fa5a8dd48d611fba0a8ab54f06c29ff9f8'>ACE 2</option><option value='acestream://1d20c5e3cc71f2b98032fda742af8949a16b43b3'>ACE 3</option><option value='acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c'>ACE 4</option><option value='acestream://dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da'>ACE 5</option><option value='acestream://9f27ea73230f9c65034601636dbfe39de43a8212'>ACE 6</option><option value='acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05'>ACE 7</option></select>
                         </div>
                         </a>
                         
@@ -718,7 +733,7 @@
             <h5 class='mb-1'>Dd Sports</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://a54b83b3337c1b30d450a6753638a7d95d28ea38'>ACE 0</option><option value='acestream://efb6bf29a7d273f05981c9108a9df140128440e4'>ACE 1</option><option value='acestream://aaee34c93488bb3b52b44c3422d858dc97f20f98'>ACE 2</option><option value='acestream://97baf16724b85d41852f9f1f1a400672129f5258'>ACE 3</option></select>
+<option value='acestream://97baf16724b85d41852f9f1f1a400672129f5258'>ACE 0</option><option value='acestream://a54b83b3337c1b30d450a6753638a7d95d28ea38'>ACE 1</option><option value='acestream://aaee34c93488bb3b52b44c3422d858dc97f20f98'>ACE 2</option><option value='acestream://efb6bf29a7d273f05981c9108a9df140128440e4'>ACE 3</option></select>
                         </div>
                         </a>
                         
@@ -785,6 +800,17 @@
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
 <option value='acestream://af5929dbd355fe312be5d10c1428799ac735e519'>ACE 0</option></select>
+                        </div>
+                        </a>
+                        
+            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
+
+		    <div class="d-flex w-100 justify-content-between">
+
+            <h5 class='mb-1'>Dubai Sports 3</h5>
+<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
+<option value=''>Link</option>
+<option value='acestream://e9ecd529d5ad21d6ab9e7ba2179dfd6abfa40db0'>ACE 0</option></select>
                         </div>
                         </a>
                         
@@ -982,7 +1008,7 @@
             <h5 class='mb-1'>Espn 2</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://664eb5fe460b96941aed633959a845b185cd8394'>ACE 0</option><option value='acestream://b5c017e94b72013902c02f6d145c77f753bc3e12'>ACE 1</option><option value='acestream://1be2b7603c0735a2c6ed50b0f99142a46eb323ad'>ACE 2</option><option value='acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e'>ACE 3</option><option value='acestream://c32adec51b796a58fc484f99456b035cde188c2a'>ACE 4</option></select>
+<option value='acestream://664eb5fe460b96941aed633959a845b185cd8394'>ACE 0</option><option value='acestream://b5c017e94b72013902c02f6d145c77f753bc3e12'>ACE 1</option><option value='acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e'>ACE 2</option><option value='acestream://c32adec51b796a58fc484f99456b035cde188c2a'>ACE 3</option><option value='acestream://1be2b7603c0735a2c6ed50b0f99142a46eb323ad'>ACE 4</option></select>
                         </div>
                         </a>
                         
@@ -1070,7 +1096,7 @@
             <h5 class='mb-1'>Espn Extra Uruguay</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://9a8c5485a38e9399e81b3eed23e588946946039f'>ACE 0</option><option value='acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612'>ACE 1</option><option value='acestream://f3f14b89eb62839f97153593432370b5bd61a5df'>ACE 2</option></select>
+<option value='acestream://9a8c5485a38e9399e81b3eed23e588946946039f'>ACE 0</option><option value='acestream://f3f14b89eb62839f97153593432370b5bd61a5df'>ACE 1</option><option value='acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -1103,7 +1129,7 @@
             <h5 class='mb-1'>Espn [us]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e'>ACE 0</option><option value='acestream://4b4907de51ec11087d4bed5876f2a0c68264f442'>ACE 1</option></select>
+<option value='acestream://4b4907de51ec11087d4bed5876f2a0c68264f442'>ACE 0</option><option value='acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -1408,17 +1434,6 @@
 
 		    <div class="d-flex w-100 justify-content-between">
 
-            <h5 class='mb-1'>Fightbox [ru]</h5>
-<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
-<option value=''>Link</option>
-<option value='acestream://49b734a5a3365674480089264be00ae28fabb640'>ACE 0</option></select>
-                        </div>
-                        </a>
-                        
-            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
-
-		    <div class="d-flex w-100 justify-content-between">
-
             <h5 class='mb-1'>Fightklub [pl]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
@@ -1499,7 +1514,7 @@
             <h5 class='mb-1'>Gol 2</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://cc77ee9a408eeb940d3875fa92fc5dd783ef8363'>ACE 0</option><option value='acestream://764ef33d74975b1fbea88a6f95dae91682143deb'>ACE 1</option></select>
+<option value='acestream://764ef33d74975b1fbea88a6f95dae91682143deb'>ACE 0</option><option value='acestream://cc77ee9a408eeb940d3875fa92fc5dd783ef8363'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -1521,7 +1536,18 @@
             <h5 class='mb-1'>Golf Channel [pl]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689'>ACE 0</option><option value='acestream://b73da828421018c98905ed05934b77ea35aa1b29'>ACE 1</option></select>
+<option value='acestream://b73da828421018c98905ed05934b77ea35aa1b29'>ACE 0</option><option value='acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689'>ACE 1</option></select>
+                        </div>
+                        </a>
+                        
+            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
+
+		    <div class="d-flex w-100 justify-content-between">
+
+            <h5 class='mb-1'>Ha Noi 1</h5>
+<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
+<option value=''>Link</option>
+<option value='acestream://87fdd1226bc4c8f16c7fe036b56d44e1e10ecc18'>ACE 0</option></select>
                         </div>
                         </a>
                         
@@ -1576,7 +1602,7 @@
             <h5 class='mb-1'>Laliga Smartbank Tv</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://d8512e64f34a117afb656f5c66cf8d88023c9570'>ACE 0</option><option value='acestream://3441c0e7a316b4e19b818f546aaa480cfa90bd83'>ACE 1</option><option value='acestream://7be891a4f76e8736827cae4113444bac419405d3'>ACE 2</option><option value='acestream://9bd2bf4eb37ecc97e7986a1322341563cd702583'>ACE 3</option><option value='acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3'>ACE 4</option><option value='acestream://d475208e72b5a343080afa0724c7b7c42264b9a0'>ACE 5</option><option value='acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf'>ACE 6</option><option value='acestream://b4d0c55b2a918da310e521b363e1f038247a11b3'>ACE 7</option><option value='acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2'>ACE 8</option></select>
+<option value='acestream://d8512e64f34a117afb656f5c66cf8d88023c9570'>ACE 0</option><option value='acestream://7be891a4f76e8736827cae4113444bac419405d3'>ACE 1</option><option value='acestream://3441c0e7a316b4e19b818f546aaa480cfa90bd83'>ACE 2</option><option value='acestream://9bd2bf4eb37ecc97e7986a1322341563cd702583'>ACE 3</option><option value='acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3'>ACE 4</option><option value='acestream://d475208e72b5a343080afa0724c7b7c42264b9a0'>ACE 5</option><option value='acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf'>ACE 6</option><option value='acestream://b4d0c55b2a918da310e521b363e1f038247a11b3'>ACE 7</option><option value='acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2'>ACE 8</option></select>
                         </div>
                         </a>
                         
@@ -1771,6 +1797,28 @@
 
 		    <div class="d-flex w-100 justify-content-between">
 
+            <h5 class='mb-1'>Match Football 1 F</h5>
+<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
+<option value=''>Link</option>
+<option value='acestream://47498fd3672aa05cff162c62998056462734aeac'>ACE 0</option></select>
+                        </div>
+                        </a>
+                        
+            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
+
+		    <div class="d-flex w-100 justify-content-between">
+
+            <h5 class='mb-1'>Match Football 2</h5>
+<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
+<option value=''>Link</option>
+<option value='acestream://eeb691797ff601330c1142f998793357f3c821cf'>ACE 0</option></select>
+                        </div>
+                        </a>
+                        
+            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
+
+		    <div class="d-flex w-100 justify-content-between">
+
             <h5 class='mb-1'>Match Football 3</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
@@ -1782,10 +1830,32 @@
 
 		    <div class="d-flex w-100 justify-content-between">
 
+            <h5 class='mb-1'>Match Premier F</h5>
+<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
+<option value=''>Link</option>
+<option value='acestream://1f2a653c427edfc7c9d3db31cfe92f3a243a2326'>ACE 0</option></select>
+                        </div>
+                        </a>
+                        
+            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
+
+		    <div class="d-flex w-100 justify-content-between">
+
+            <h5 class='mb-1'>Match Tv F</h5>
+<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
+<option value=''>Link</option>
+<option value='acestream://cd26e6f9a3ba26143a8f30ac9709913a9d2d4235'>ACE 0</option></select>
+                        </div>
+                        </a>
+                        
+            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
+
+		    <div class="d-flex w-100 justify-content-between">
+
             <h5 class='mb-1'>Match! Arena F~8</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://75b55ad98da790505f08bb7dc4050c83cf99c1f0'>ACE 0</option><option value='acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab'>ACE 1</option><option value='acestream://18dc2b7f5fc768da4a9920a910fce73dc340ff7c'>ACE 2</option><option value='acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1'>ACE 3</option><option value='acestream://af03486f81f5cc38541348a9c04deda35e5ba41b'>ACE 4</option></select>
+<option value='acestream://75b55ad98da790505f08bb7dc4050c83cf99c1f0'>ACE 0</option><option value='acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1'>ACE 1</option><option value='acestream://18dc2b7f5fc768da4a9920a910fce73dc340ff7c'>ACE 2</option><option value='acestream://af03486f81f5cc38541348a9c04deda35e5ba41b'>ACE 3</option><option value='acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab'>ACE 4</option></select>
                         </div>
                         </a>
                         
@@ -1796,7 +1866,7 @@
             <h5 class='mb-1'>Match! Arena [ru]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa'>ACE 0</option><option value='acestream://106c8656fca0ca91a696110467788d202d7111af'>ACE 1</option><option value='acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5'>ACE 2</option></select>
+<option value='acestream://106c8656fca0ca91a696110467788d202d7111af'>ACE 0</option><option value='acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5'>ACE 1</option><option value='acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -1807,7 +1877,7 @@
             <h5 class='mb-1'>Match! Football 2 [ru]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://b6baa046075d82da300fc1b16de96067a8b9540e'>ACE 0</option><option value='acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2'>ACE 1</option><option value='acestream://b28db77c5084da7993395d77df96c30bb134f0a9'>ACE 2</option><option value='acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04'>ACE 3</option></select>
+<option value='acestream://b6baa046075d82da300fc1b16de96067a8b9540e'>ACE 0</option><option value='acestream://b28db77c5084da7993395d77df96c30bb134f0a9'>ACE 1</option><option value='acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04'>ACE 2</option><option value='acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2'>ACE 3</option></select>
                         </div>
                         </a>
                         
@@ -1928,7 +1998,7 @@
             <h5 class='mb-1'>Movistar Deportes</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://107acd31600d0fdcdbac2065171c39042f3369c7'>ACE 0</option><option value='acestream://d580d53613be09c7a5388d808509f6c97ec07df2'>ACE 1</option><option value='acestream://a252bf555d5ae92cce49393a5ae28fe9874526de'>ACE 2</option><option value='acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486'>ACE 3</option></select>
+<option value='acestream://d580d53613be09c7a5388d808509f6c97ec07df2'>ACE 0</option><option value='acestream://107acd31600d0fdcdbac2065171c39042f3369c7'>ACE 1</option><option value='acestream://a252bf555d5ae92cce49393a5ae28fe9874526de'>ACE 2</option><option value='acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486'>ACE 3</option></select>
                         </div>
                         </a>
                         
@@ -2038,7 +2108,7 @@
             <h5 class='mb-1'>Movistar Laliga</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f'>ACE 0</option><option value='acestream://d5c864a71052159a3dc86d040023bcdb7b736ad0'>ACE 1</option><option value='acestream://bbd20072e7123a3ac6dd156c5e67789d8ed1bcfa'>ACE 2</option><option value='acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c'>ACE 3</option><option value='acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0'>ACE 4</option><option value='acestream://d8512e64f34a117afb656f5c66cf8d88023c9570'>ACE 5</option><option value='acestream://cba7b94b30e25780c9ef335d7308f7b8a18ce979'>ACE 6</option><option value='acestream://df139bbcd7ae6825b46d5955c52d639f1215346a'>ACE 7</option><option value='acestream://edfa1c981ad5dac59b6413434a7e69f40c57ab4d'>ACE 8</option><option value='acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175'>ACE 9</option><option value='acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888'>ACE 10</option></select>
+<option value='acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f'>ACE 0</option><option value='acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c'>ACE 1</option><option value='acestream://d5c864a71052159a3dc86d040023bcdb7b736ad0'>ACE 2</option><option value='acestream://bbd20072e7123a3ac6dd156c5e67789d8ed1bcfa'>ACE 3</option><option value='acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0'>ACE 4</option><option value='acestream://edfa1c981ad5dac59b6413434a7e69f40c57ab4d'>ACE 5</option><option value='acestream://d8512e64f34a117afb656f5c66cf8d88023c9570'>ACE 6</option><option value='acestream://df139bbcd7ae6825b46d5955c52d639f1215346a'>ACE 7</option><option value='acestream://cba7b94b30e25780c9ef335d7308f7b8a18ce979'>ACE 8</option><option value='acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175'>ACE 9</option><option value='acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888'>ACE 10</option></select>
                         </div>
                         </a>
                         
@@ -2049,7 +2119,7 @@
             <h5 class='mb-1'>Movistar Laliga 1</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3'>ACE 0</option><option value='acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2'>ACE 1</option><option value='acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf'>ACE 2</option><option value='acestream://4229d640fecf3c0897674241bcf851b67f4310e3'>ACE 3</option></select>
+<option value='acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2'>ACE 0</option><option value='acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf'>ACE 1</option><option value='acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3'>ACE 2</option><option value='acestream://4229d640fecf3c0897674241bcf851b67f4310e3'>ACE 3</option></select>
                         </div>
                         </a>
                         
@@ -2137,7 +2207,7 @@
             <h5 class='mb-1'>Movistar Liga De Campeones</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://cba7b94b30e25780c9ef335d7308f7b8a18ce979'>ACE 0</option><option value='acestream://69539c018423fb4014ab29cef683f32d3374fd94'>ACE 1</option><option value='acestream://edfa1c981ad5dac59b6413434a7e69f40c57ab4d'>ACE 2</option><option value='acestream://7e86f47e34131642e163e8ef8ce93e65ae9288bd'>ACE 3</option><option value='acestream://546d3be86e56b2578b1e28c7ed98fb6520e5fa67'>ACE 4</option><option value='acestream://f90c6899eb5cadb0050226548246adb56ceade8a'>ACE 5</option><option value='acestream://b20ec6736b36af9bd229b215af69362528aaffff'>ACE 6</option><option value='acestream://b5c49e8f1bb36964b309b49476b4891b47b94055'>ACE 7</option><option value='acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d'>ACE 8</option><option value='acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b'>ACE 9</option><option value='acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76'>ACE 10</option><option value='acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6'>ACE 11</option></select>
+<option value='acestream://edfa1c981ad5dac59b6413434a7e69f40c57ab4d'>ACE 0</option><option value='acestream://7e86f47e34131642e163e8ef8ce93e65ae9288bd'>ACE 1</option><option value='acestream://69539c018423fb4014ab29cef683f32d3374fd94'>ACE 2</option><option value='acestream://cba7b94b30e25780c9ef335d7308f7b8a18ce979'>ACE 3</option><option value='acestream://546d3be86e56b2578b1e28c7ed98fb6520e5fa67'>ACE 4</option><option value='acestream://f90c6899eb5cadb0050226548246adb56ceade8a'>ACE 5</option><option value='acestream://b20ec6736b36af9bd229b215af69362528aaffff'>ACE 6</option><option value='acestream://b5c49e8f1bb36964b309b49476b4891b47b94055'>ACE 7</option><option value='acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d'>ACE 8</option><option value='acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b'>ACE 9</option><option value='acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76'>ACE 10</option><option value='acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6'>ACE 11</option></select>
                         </div>
                         </a>
                         
@@ -2214,7 +2284,7 @@
             <h5 class='mb-1'>Movistar Liga De Campeones 4</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://f2b785193cfa99c581287be39e2fb5a73827957b'>ACE 0</option><option value='acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487'>ACE 1</option><option value='acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94'>ACE 2</option><option value='acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737'>ACE 3</option><option value='acestream://297fab10d7364ca1991fa43fcff469573688ce7a'>ACE 4</option></select>
+<option value='acestream://f2b785193cfa99c581287be39e2fb5a73827957b'>ACE 0</option><option value='acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94'>ACE 1</option><option value='acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487'>ACE 2</option><option value='acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737'>ACE 3</option><option value='acestream://297fab10d7364ca1991fa43fcff469573688ce7a'>ACE 4</option></select>
                         </div>
                         </a>
                         
@@ -2390,7 +2460,7 @@
             <h5 class='mb-1'>Nba Multi</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://39db49bc89dcc3c8797566231f869dca57f1a47e'>ACE 0</option><option value='acestream://e72d03fb9694164317260f684470be9ab781ed95'>ACE 1</option></select>
+<option value='acestream://e72d03fb9694164317260f684470be9ab781ed95'>ACE 0</option><option value='acestream://39db49bc89dcc3c8797566231f869dca57f1a47e'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -2401,7 +2471,7 @@
             <h5 class='mb-1'>Nba Tv</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://c041752a3fa03edbf2f7c8a84afdee0843f3e1ea'>ACE 0</option><option value='acestream://83a49464837d0be5730717e70a1234ceb27395a4'>ACE 1</option><option value='acestream://30973e4a87cb92c85430bce617736c64a9e2fb32'>ACE 2</option></select>
+<option value='acestream://c041752a3fa03edbf2f7c8a84afdee0843f3e1ea'>ACE 0</option><option value='acestream://30973e4a87cb92c85430bce617736c64a9e2fb32'>ACE 1</option><option value='acestream://83a49464837d0be5730717e70a1234ceb27395a4'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -2500,7 +2570,7 @@
             <h5 class='mb-1'>Pimpletv.ru</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf'>ACE 0</option><option value='acestream://d2a36e305458e200c2a4952317fc33e38bd80187'>ACE 1</option><option value='acestream://955bc653f090c238b8d933b41d8a66fee1bf7893'>ACE 2</option></select>
+<option value='acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf'>ACE 0</option><option value='acestream://955bc653f090c238b8d933b41d8a66fee1bf7893'>ACE 1</option><option value='acestream://d2a36e305458e200c2a4952317fc33e38bd80187'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -2764,7 +2834,7 @@
             <h5 class='mb-1'>Setanta Live 1</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://78637dab85e7948057165ad0c80b3db475dd9c3d'>ACE 0</option><option value='acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b'>ACE 1</option></select>
+<option value='acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b'>ACE 0</option><option value='acestream://78637dab85e7948057165ad0c80b3db475dd9c3d'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -2786,7 +2856,7 @@
             <h5 class='mb-1'>Setanta Live 2 [ru]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://b7e8c3bae5d98a4f842f334ff57604de9886f5c7'>ACE 0</option><option value='acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c'>ACE 1</option></select>
+<option value='acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c'>ACE 0</option><option value='acestream://b7e8c3bae5d98a4f842f334ff57604de9886f5c7'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -2809,17 +2879,6 @@
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
 <option value='acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4'>ACE 0</option></select>
-                        </div>
-                        </a>
-                        
-            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
-
-		    <div class="d-flex w-100 justify-content-between">
-
-            <h5 class='mb-1'>Setanta Sports 2 F</h5>
-<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
-<option value=''>Link</option>
-<option value='acestream://629b9b0aeb8116056c7fa441a68bd02b05b43490'>ACE 0</option></select>
                         </div>
                         </a>
                         
@@ -2863,7 +2922,7 @@
             <h5 class='mb-1'>Sky Fórmula 1</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://50b32fc0d7db4297f32914c7dc807493d0581ca6'>ACE 0</option><option value='acestream://875b2d85b624abf9fae58e41c5ed9fe612c3794d'>ACE 1</option><option value='acestream://287b45d67f058b737518f2f51226e78d530baeae'>ACE 2</option><option value='acestream://fc4a67bd0909fe92011041cb51a6a32a2063908f'>ACE 3</option><option value='acestream://78348f6597d974376b2e6d85993bb0e71cb27af7'>ACE 4</option></select>
+<option value='acestream://fc4a67bd0909fe92011041cb51a6a32a2063908f'>ACE 0</option><option value='acestream://50b32fc0d7db4297f32914c7dc807493d0581ca6'>ACE 1</option><option value='acestream://78348f6597d974376b2e6d85993bb0e71cb27af7'>ACE 2</option><option value='acestream://287b45d67f058b737518f2f51226e78d530baeae'>ACE 3</option><option value='acestream://875b2d85b624abf9fae58e41c5ed9fe612c3794d'>ACE 4</option></select>
                         </div>
                         </a>
                         
@@ -3248,7 +3307,7 @@
             <h5 class='mb-1'>Telecinco</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://3441c0e7a316b4e19b818f546aaa480cfa90bd83'>ACE 0</option><option value='acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c'>ACE 1</option></select>
+<option value='acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c'>ACE 0</option><option value='acestream://3441c0e7a316b4e19b818f546aaa480cfa90bd83'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -3347,7 +3406,7 @@
             <h5 class='mb-1'>Turkmenistan Sport</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://79a91871831e876fc03db714420355c0536f6bca'>ACE 0</option><option value='acestream://ca540da2c0189723ff4c379e56b000aed79ac0c3'>ACE 1</option><option value='acestream://b79966beb30615c504d020d414eeb30cb4cea03f'>ACE 2</option></select>
+<option value='acestream://79a91871831e876fc03db714420355c0536f6bca'>ACE 0</option><option value='acestream://b79966beb30615c504d020d414eeb30cb4cea03f'>ACE 1</option><option value='acestream://ca540da2c0189723ff4c379e56b000aed79ac0c3'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -3402,7 +3461,7 @@
             <h5 class='mb-1'>Tv3 Sport F~8</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://2fcbdfffeed054714b459ce0dcb59a252a8f64d4'>ACE 0</option><option value='acestream://8a72010856f27010d03b0e763f4a3d6f02842179'>ACE 1</option><option value='acestream://72066549fbfd3f755853fe9467586b7debf01f60'>ACE 2</option><option value='acestream://58f2d9438e8b7816294dd7fe28aaf1af61e5bf1f'>ACE 3</option></select>
+<option value='acestream://2fcbdfffeed054714b459ce0dcb59a252a8f64d4'>ACE 0</option><option value='acestream://58f2d9438e8b7816294dd7fe28aaf1af61e5bf1f'>ACE 1</option><option value='acestream://72066549fbfd3f755853fe9467586b7debf01f60'>ACE 2</option><option value='acestream://8a72010856f27010d03b0e763f4a3d6f02842179'>ACE 3</option></select>
                         </div>
                         </a>
                         
@@ -3479,7 +3538,7 @@
             <h5 class='mb-1'>Ufc [ru]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64'>ACE 0</option><option value='acestream://0d59f0292f9e5569f4dff50ac4c3c89913b32a7a'>ACE 1</option></select>
+<option value='acestream://0d59f0292f9e5569f4dff50ac4c3c89913b32a7a'>ACE 0</option><option value='acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -3490,7 +3549,7 @@
             <h5 class='mb-1'>Unknown</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5'>ACE 0</option><option value='acestream://5c878afe25deb6a7f1cfe198df39d5a073af4134'>ACE 1</option><option value='acestream://fb26b0ccd240345a7530f354b825dd9672611377'>ACE 2</option><option value='acestream://b9b5a52abc21a74cd082649c946ea94fe13f80fa'>ACE 3</option><option value='acestream://445fe5255504241de5eec52b092a8043a83118f5'>ACE 4</option><option value='acestream://31fcaafcf0b516eb2723250f744f966b6b40cc2c'>ACE 5</option><option value='acestream://b2c8dfc5ec5fdfb098ae4285335ee465f0b63885'>ACE 6</option><option value='acestream://3814b39d024f50efefb0a30cccf33bac16842328'>ACE 7</option><option value='acestream://2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04'>ACE 8</option><option value='acestream://7135a124f24deca70fb59fa1c413dfe580f1981a'>ACE 9</option><option value='acestream://ed699504c5010cab9046530306960e998a92f5e6'>ACE 10</option><option value='acestream://5cea434c891d27aa66d87d3b23d91ab74c1c72f8'>ACE 11</option><option value='acestream://c349936b7b036f05bade2852b15fe56c6ba98305'>ACE 12</option><option value='acestream://21fcd8e73936b64435d07832c2d8382609f48d6d'>ACE 13</option><option value='acestream://65d49691687add6a93692a757817bac4f204ed1f'>ACE 14</option><option value='acestream://5817f9d710d682fe975a16c47306bfdced437319'>ACE 15</option><option value='acestream://4d6232def7e751c47eb44a017021055e8362b54a'>ACE 16</option><option value='acestream://e5546c985741ec758b39030c59ade2f3a311a06e'>ACE 17</option><option value='acestream://54c5166475563784a367313ffd231402eeedadcd'>ACE 18</option><option value='acestream://cc5f7b6ea29b19b5ec6eef565d49a698340b4943'>ACE 19</option><option value='acestream://1b74777f3b2121d067457fc554beb5e1c26b6cd8'>ACE 20</option><option value='acestream://eae220fcc500446c2033740c0b482c989599ec46'>ACE 21</option><option value='acestream://d0bd4393c4eca71a7758ab072d264d3de118bad7'>ACE 22</option><option value='acestream://7222fcd5c4efe1f4beee535acac83fc195bc51d3'>ACE 23</option><option value='acestream://026fd926df4971f2801c185f204d9f8b185a4d58'>ACE 24</option><option value='acestream://49552fcef0397a9f48f7520247ee414a085f61e2'>ACE 25</option><option value='acestream://b6035d6c3e25776479b5000ece8a080dd8b4c679'>ACE 26</option><option value='acestream://73c4008c455fc900d6e1d4c53ed4958a641295dc'>ACE 27</option><option value='acestream://AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'>ACE 28</option><option value='acestream://60a854ea4080f88838080f9e12d7d209c3938f2b'>ACE 29</option><option value='acestream://05a4d3a925f74cd093dfe2313617a97d1b74c6ab'>ACE 30</option><option value='acestream://f0d908e70f43941715250ef8ee0e4c576d621e99'>ACE 31</option><option value='acestream://f0736374096137942d6befa8577390d6c40a4d0d'>ACE 32</option><option value='acestream://b40887a75fbb511f95a43c33b24e058b3050143d'>ACE 33</option><option value='acestream://c801884026f2680238a05094d9fb15804dc80b64'>ACE 34</option><option value='acestream://a28e1f7e87ba7ca186f4ecaeab959c698fe1d759'>ACE 35</option><option value='acestream://07d24566226c5851b9c3a3235e3451854d6baeac'>ACE 36</option><option value='acestream://9da24d440f0d023b127a1dd18ae1ebbe29ed6f9e'>ACE 37</option><option value='acestream://550a010240fa5f587510bd668e695a356d7585f2'>ACE 38</option><option value='acestream://65707378011c08c27dca1f0162d545f369756c5f'>ACE 39</option><option value='acestream://3f5507b9b6db4d1765457aea6f2f60e8daa6e8dc'>ACE 40</option><option value='acestream://2eb69cd0d5b6d767c37c69a5d6f2bbbf5581ec14'>ACE 41</option><option value='acestream://5988dc4ef60bf2f77939026578ac80771f2938c2'>ACE 42</option><option value='acestream://1273767f7b7c5273717761666077737f61777360'>ACE 43</option><option value='acestream://41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5'>ACE 44</option><option value='acestream://55b69cac18cbeb14c00705d06bc3396f7f6b7070'>ACE 45</option><option value='acestream://3f29f1f6bb91aede1440c6b5a54375e925e7f91e'>ACE 46</option><option value='acestream://c4362aac9a424878e684766120548629a0ff2bce'>ACE 47</option><option value='acestream://0ca12cd9ca7f45d95b962daa7be02e5a34479925'>ACE 48</option><option value='acestream://575e085a4fbc30cdacf1b1ed06af48aca81fc264'>ACE 49</option><option value='acestream://5b1f4a0fb8abc134de4692179b55e4008f0e5e82'>ACE 50</option><option value='acestream://bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac'>ACE 51</option><option value='acestream://da68ee02776cd18de9727bb1e6eb88c3d5cbe1b2'>ACE 52</option><option value='acestream://2d04b4c1391b16a4995e7b7fe74833d6c9d850ac'>ACE 53</option><option value='acestream://2128074a1ebba9d320b148d25001b356f1057dda'>ACE 54</option><option value='acestream://1d316bb0fd6a7741ac8c9a8972b6710e71d84791'>ACE 55</option><option value='acestream://d2d67adfd4f240630d845b2bc37315b9915b61b1'>ACE 56</option><option value='acestream://3e9958418be69e86c398c737706f32d8b36801d8'>ACE 57</option><option value='acestream://f64b7f9fd810fb361bee84fcc589226da860e094'>ACE 58</option><option value='acestream://1b934ec63c468985b2de585a9b4767b163f1a7d7'>ACE 59</option><option value='acestream://2fa4f5c826b6653a7bdf0026cdac58a966bf047f'>ACE 60</option><option value='acestream://76d1b69b39e62563f558704c9149db76026d8f52'>ACE 61</option><option value='acestream://493f73e6a26ea1ac44099316c3705cf318782d03'>ACE 62</option><option value='acestream://0b35e5219bdadef1a70d3593c6a4ed98b9c1cdab'>ACE 63</option><option value='acestream://3b6c908c1715714a02f63f528fa44f6f5c915d63'>ACE 64</option><option value='acestream://67ea1f5d1f04afc1ec5d90e41d5925c0b5f08767'>ACE 65</option><option value='acestream://c3fcd608d4de8e162927cef896317a6fbf662c16'>ACE 66</option><option value='acestream://72edd91033749298ba305effacac8547def37b38'>ACE 67</option><option value='acestream://9ac7aeb2f39f3fbb7a7135adc0d2a2b4cc342519'>ACE 68</option><option value='acestream://736c317f90e20a6ab0d40e95dd16984cf499f981'>ACE 69</option><option value='acestream://e850081714d664c507fe9294014c9727b8f0ba67'>ACE 70</option><option value='acestream://684c2b2de367f793591a54d2371b313c17c3f936'>ACE 71</option><option value='acestream://f1d5c26b460b58668c3eec3a6b9cb65d8a8c7092'>ACE 72</option><option value='acestream://53797faae7c2254e68e9a22a979a677179f6b031'>ACE 73</option><option value='acestream://35de338b85497628f8ac201da9fa9fb42bfbed85'>ACE 74</option><option value='acestream://7e5e03399c1dfb09ae4d9ec0de02c78eda353f56'>ACE 75</option><option value='acestream://6312a9be828cd8cf1e17f102178119cc5fc80794'>ACE 76</option><option value='acestream://3eca3e03275705e97082ea51c72498b0b5554135'>ACE 77</option><option value='acestream://810bc94049929fea3757aea24e2b1f313a059a43'>ACE 78</option><option value='acestream://733c9fccfc5775e01dcb9cc09e58a105079159b1'>ACE 79</option><option value='acestream://71af028a4b7f6aa4b1dbc44382472c9272ee6361'>ACE 80</option><option value='acestream://7ac79a96256aebe5affbdb42a0ce15cb26c2eef8'>ACE 81</option><option value='acestream://744da1fd7afda0b33171715f42c4daccadd9ea4a'>ACE 82</option><option value='acestream://27bb6b07f6fb79cc1d4e5a871165c4f2fd525234'>ACE 83</option><option value='acestream://4ed10176aa6f158a4fa0d8cbcd1fcbb308c44018'>ACE 84</option><option value='acestream://ae2e3060a6cb2e826c17c7973db81440c57bbad8'>ACE 85</option><option value='acestream://917f6b2185db3038640436011a25b7a989c7e68d'>ACE 86</option><option value='acestream://f882e4aec8792147c1f649d3250d81805cfc1188'>ACE 87</option><option value='acestream://7bd977bc40966f827be8c35419bb261de9e8a7eb'>ACE 88</option><option value='acestream://7b47558c832afc27617ad864abc2d472b1ca03ee'>ACE 89</option><option value='acestream://261ba9b9df08676256edc1722c7f6f7dcd1531e0'>ACE 90</option><option value='acestream://07350a9062a9d399e77949a38afacd5c7df75bd4'>ACE 91</option><option value='acestream://5eb24e91bd910077ec6103eb00e54820fc89cdb1'>ACE 92</option><option value='acestream://54faa693c40fa77daff79b22b49fe96e8e71013a'>ACE 93</option><option value='acestream://9779d33ef2371d1a67c4e23c230daccb9f1756a1'>ACE 94</option><option value='acestream://b2fd1d497fee333625c7c5774186823509345a44'>ACE 95</option><option value='acestream://f4455c0af5aaf76e932b3fae40c33dd716e70cc0'>ACE 96</option><option value='acestream://b043892bfa0df210a8886688f1090241dd483b10'>ACE 97</option><option value='acestream://785d1ee9826ebf13a92b6ebe323305899be8f51f'>ACE 98</option><option value='acestream://06df62067f5e7db8f55c1fd29aa4ffc7eefa56d7'>ACE 99</option><option value='acestream://b1b5a43b97a61c09cb3f1d4f3ef156b562aa7d45'>ACE 100</option><option value='acestream://050071266e85faccde37d7881055aa5701f04c0b'>ACE 101</option><option value='acestream://38e5c260b47bb3e1a6024f675dcfad79e26c6d5b'>ACE 102</option><option value='acestream://ca7ee859d7d19d647af029419b2a5cc6543c4946'>ACE 103</option><option value='acestream://35fd2c60a8a4353e1d7d1b7cfe0ac15fe05fce0a'>ACE 104</option><option value='acestream://948b1e1a8e9ad91107380498af5521e761bdf482'>ACE 105</option><option value='acestream://850104db0a809786295219912a4fa4e1569789b9'>ACE 106</option><option value='acestream://fc7689ad3c17c978851df68d79e40a953c4a400b'>ACE 107</option><option value='acestream://50ef00daee32c9ae130d41d1a4f4e931615502a9'>ACE 108</option><option value='acestream://55125ba74783f463a1c2a9c4ff95533ed0df2387'>ACE 109</option><option value='acestream://0237d95112a2bcf36c0e6343d55e2da6eb63d310'>ACE 110</option><option value='acestream://f5d3ea421c4c067b5c90161a8ae4d93482fb9edd'>ACE 111</option><option value='acestream://d67f201bfdc47d376b6195d50a3ac3ee231a92a5'>ACE 112</option><option value='acestream://afda7ad25cf53be75a9da094d6778077673d705e'>ACE 113</option><option value='acestream://2926e34c63d83764f9c6671da53397d55041b4ea'>ACE 114</option><option value='acestream://6f0e0b0206012f0e0c0a1c1b1d0a0e021c0a0e1d'>ACE 115</option><option value='acestream://4326cb056ec172c0d9958cd44535045723b66068'>ACE 116</option><option value='acestream://ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0'>ACE 117</option><option value='acestream://9aeaf53c3d1c1fe05f024a587a11af1b6b882255'>ACE 118</option><option value='acestream://b7a2ebb4e71055893ebf7f08fcb8ec797564ae52'>ACE 119</option><option value='acestream://64b49ca640deb1afd64ff9372490336386c907e5'>ACE 120</option><option value='acestream://399ca2a604a2236ee6f56eebb1c412bc01b9abc7'>ACE 121</option><option value='acestream://961d5f3f0a9c146e5fa3a636b8a583efe48022c7'>ACE 122</option><option value='acestream://5e428462cf5f80b0ba5ed17a52fa5ba0278d13d0'>ACE 123</option><option value='acestream://b1fca59a2c97982d2be519462e244b0e1d56ff2a'>ACE 124</option><option value='acestream://dc82583639de71f976ea3406a2d604249d6f6df7'>ACE 125</option><option value='acestream://6ff4e62faf15ca6ac9ba5c8c6e4c347b5a554bf9'>ACE 126</option><option value='acestream://676f517998fa4c6df19c64e2586165606281ea9a'>ACE 127</option><option value='acestream://6d9e445e9c557e5d66c5ea84c573ec5fc9badef3'>ACE 128</option><option value='acestream://293da373cbfff425fde84876488c8bbbbe0b8daa'>ACE 129</option><option value='acestream://7015b3cf310d39770ce0926b768df256cd3f9692'>ACE 130</option><option value='acestream://7231e7cafb290ee9190178678a4cda75603af9cf'>ACE 131</option><option value='acestream://5e38456d774827e7312b7eabdde388532a3dfec9'>ACE 132</option><option value='acestream://cd421b221ef7bae31a599542cd9c061fc66b30aa'>ACE 133</option><option value='acestream://38efc26a90d79b2d8c70024ab13631829292764c'>ACE 134</option><option value='acestream://1170757c787f5170727462656374707c62747063'>ACE 135</option><option value='acestream://c6214ad7d6d38c44916fb1a6fd5a3b6758a720b4'>ACE 136</option><option value='acestream://57401c50a256f68da4bc9ebe9965e2f12a9d20e2'>ACE 137</option><option value='acestream://05fe94b726e99b1dd548013bd281980f9f27b617'>ACE 138</option><option value='acestream://bcc2baf6cfa86aadcbbf5788fcf9d9a017fdea1b'>ACE 139</option><option value='acestream://a9b9a780684a361339c14b43c58cb1c511dc4d9e'>ACE 140</option><option value='acestream://192ca66e1e39bec710e286780c49bcc432258636'>ACE 141</option><option value='acestream://ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6'>ACE 142</option><option value='acestream://062258a94106b737b3f938ac1c53e193d674b0c3'>ACE 143</option></select>
+<option value='acestream://5c878afe25deb6a7f1cfe198df39d5a073af4134'>ACE 0</option><option value='acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b'>ACE 1</option><option value='acestream://b779e6056975e3682a804d47cbd5cc806217f64d'>ACE 2</option><option value='acestream://54c5166475563784a367313ffd231402eeedadcd'>ACE 3</option><option value='acestream://b40887a75fbb511f95a43c33b24e058b3050143d'>ACE 4</option><option value='acestream://00d0649880b17050d8a9ed559fc824f98fd578be'>ACE 5</option><option value='acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260'>ACE 6</option><option value='acestream://df98650743f24a245c44cdf2851e57078f4c487a'>ACE 7</option><option value='acestream://65707378011c08c27dca1f0162d545f369756c5f'>ACE 8</option><option value='acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf'>ACE 9</option><option value='acestream://cd421b221ef7bae31a599542cd9c061fc66b30aa'>ACE 10</option><option value='acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a'>ACE 11</option><option value='acestream://5e38456d774827e7312b7eabdde388532a3dfec9'>ACE 12</option><option value='acestream://b81cea9e918e1f99d213dda75105bcda529df3ff'>ACE 13</option><option value='acestream://f0736374096137942d6befa8577390d6c40a4d0d'>ACE 14</option><option value='acestream://21f0299cce733ec3a481135553de468440b3630f'>ACE 15</option><option value='acestream://4d6232def7e751c47eb44a017021055e8362b54a'>ACE 16</option><option value='acestream://ce7062654e327d9de47d35539b2c6ae94b5ce170'>ACE 17</option><option value='acestream://bcc2baf6cfa86aadcbbf5788fcf9d9a017fdea1b'>ACE 18</option><option value='acestream://49c35606668ebf7a895434ec4c9243a163d87718'>ACE 19</option><option value='acestream://6c82a952053419ef358907fc2fc52151626be0b7'>ACE 20</option><option value='acestream://da68ee02776cd18de9727bb1e6eb88c3d5cbe1b2'>ACE 21</option><option value='acestream://85bd65161dfd8c4033194da3c978c0450c9111db'>ACE 22</option><option value='acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122'>ACE 23</option><option value='acestream://05a4d3a925f74cd093dfe2313617a97d1b74c6ab'>ACE 24</option><option value='acestream://7e86f47e34131642e163e8ef8ce93e65ae9288bd'>ACE 25</option><option value='acestream://49552fcef0397a9f48f7520247ee414a085f61e2'>ACE 26</option><option value='acestream://3c679a39456838ea8abc77b288c95df2b7a3f45d'>ACE 27</option><option value='acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe'>ACE 28</option><option value='acestream://d6902382a5cdbf82534d7364fbb5742d51eae602'>ACE 29</option><option value='acestream://78637dab85e7948057165ad0c80b3db475dd9c3d'>ACE 30</option><option value='acestream://41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5'>ACE 31</option><option value='acestream://edfa1c981ad5dac59b6413434a7e69f40c57ab4d'>ACE 32</option><option value='acestream://5b1f4a0fb8abc134de4692179b55e4008f0e5e82'>ACE 33</option><option value='acestream://64b49ca640deb1afd64ff9372490336386c907e5'>ACE 34</option><option value='acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf'>ACE 35</option><option value='acestream://3756535a5e597756545244434552565a44525645'>ACE 36</option><option value='acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486'>ACE 37</option><option value='acestream://58f2d9438e8b7816294dd7fe28aaf1af61e5bf1f'>ACE 38</option><option value='acestream://a5c4c1c8cccbe5c4c6c0d6d1d7c0c4c8d6c0c4d7'>ACE 39</option><option value='acestream://3736f42708ed144139918d1685307a54e7d49086'>ACE 40</option><option value='acestream://b6035d6c3e25776479b5000ece8a080dd8b4c679'>ACE 41</option><option value='acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4'>ACE 42</option><option value='acestream://1daa76849a31201ea22c3c4cbdd4b4afc1c45f14'>ACE 43</option><option value='acestream://062258a94106b737b3f938ac1c53e193d674b0c3'>ACE 44</option><option value='acestream://7015b3cf310d39770ce0926b768df256cd3f9692'>ACE 45</option><option value='acestream://21fcd8e73936b64435d07832c2d8382609f48d6d'>ACE 46</option><option value='acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2'>ACE 47</option><option value='acestream://afcecbc2c6c1efcecccadcdbddcacec2dccacedd'>ACE 48</option><option value='acestream://2d04b4c1391b16a4995e7b7fe74833d6c9d850ac'>ACE 49</option><option value='acestream://bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac'>ACE 50</option><option value='acestream://1d316bb0fd6a7741ac8c9a8972b6710e71d84791'>ACE 51</option><option value='acestream://6c5175349940c1fb4ef30b014e631ce9fc5fdb6c'>ACE 52</option><option value='acestream://4229d640fecf3c0897674241bcf851b67f4310e3'>ACE 53</option><option value='acestream://f0d908e70f43941715250ef8ee0e4c576d621e99'>ACE 54</option><option value='acestream://05fe94b726e99b1dd548013bd281980f9f27b617'>ACE 55</option><option value='acestream://80908209cb86476bf01ab1aca7309df3a16d60d7'>ACE 56</option><option value='acestream://c4362aac9a424878e684766120548629a0ff2bce'>ACE 57</option><option value='acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9'>ACE 58</option><option value='acestream://0ca12cd9ca7f45d95b962daa7be02e5a34479925'>ACE 59</option><option value='acestream://77697d1e2f382196dd156ed384e84c62fc7d32f7'>ACE 60</option><option value='acestream://62f68471bab075eb96e5db4559e7994427db111b'>ACE 61</option><option value='acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5'>ACE 62</option><option value='acestream://55125ba74783f463a1c2a9c4ff95533ed0df2387'>ACE 63</option><option value='acestream://676f517998fa4c6df19c64e2586165606281ea9a'>ACE 64</option><option value='acestream://9779d33ef2371d1a67c4e23c230daccb9f1756a1'>ACE 65</option><option value='acestream://3e9958418be69e86c398c737706f32d8b36801d8'>ACE 66</option><option value='acestream://744da1fd7afda0b33171715f42c4daccadd9ea4a'>ACE 67</option><option value='acestream://7e5e03399c1dfb09ae4d9ec0de02c78eda353f56'>ACE 68</option><option value='acestream://ae2e3060a6cb2e826c17c7973db81440c57bbad8'>ACE 69</option><option value='acestream://ca7ee859d7d19d647af029419b2a5cc6543c4946'>ACE 70</option><option value='acestream://e850081714d664c507fe9294014c9727b8f0ba67'>ACE 71</option><option value='acestream://f1d5c26b460b58668c3eec3a6b9cb65d8a8c7092'>ACE 72</option><option value='acestream://399ca2a604a2236ee6f56eebb1c412bc01b9abc7'>ACE 73</option><option value='acestream://2998721d496187bf58db3a1a45f356f95ad9b1e4'>ACE 74</option><option value='acestream://50ef00daee32c9ae130d41d1a4f4e931615502a9'>ACE 75</option><option value='acestream://d2d67adfd4f240630d845b2bc37315b9915b61b1'>ACE 76</option><option value='acestream://961d5f3f0a9c146e5fa3a636b8a583efe48022c7'>ACE 77</option><option value='acestream://dc82583639de71f976ea3406a2d604249d6f6df7'>ACE 78</option><option value='acestream://cba147e8cfe61c9e798ff651b23f6f8f38f6a32f'>ACE 79</option><option value='acestream://948b1e1a8e9ad91107380498af5521e761bdf482'>ACE 80</option><option value='acestream://76d1b69b39e62563f558704c9149db76026d8f52'>ACE 81</option><option value='acestream://9ac7aeb2f39f3fbb7a7135adc0d2a2b4cc342519'>ACE 82</option><option value='acestream://f4455c0af5aaf76e932b3fae40c33dd716e70cc0'>ACE 83</option><option value='acestream://27bb6b07f6fb79cc1d4e5a871165c4f2fd525234'>ACE 84</option><option value='acestream://810bc94049929fea3757aea24e2b1f313a059a43'>ACE 85</option><option value='acestream://71af028a4b7f6aa4b1dbc44382472c9272ee6361'>ACE 86</option><option value='acestream://f882e4aec8792147c1f649d3250d81805cfc1188'>ACE 87</option><option value='acestream://850104db0a809786295219912a4fa4e1569789b9'>ACE 88</option><option value='acestream://293da373cbfff425fde84876488c8bbbbe0b8daa'>ACE 89</option><option value='acestream://785d1ee9826ebf13a92b6ebe323305899be8f51f'>ACE 90</option><option value='acestream://fc7689ad3c17c978851df68d79e40a953c4a400b'>ACE 91</option><option value='acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e'>ACE 92</option><option value='acestream://684c2b2de367f793591a54d2371b313c17c3f936'>ACE 93</option><option value='acestream://736c317f90e20a6ab0d40e95dd16984cf499f981'>ACE 94</option><option value='acestream://35de338b85497628f8ac201da9fa9fb42bfbed85'>ACE 95</option><option value='acestream://06df62067f5e7db8f55c1fd29aa4ffc7eefa56d7'>ACE 96</option><option value='acestream://35fd2c60a8a4353e1d7d1b7cfe0ac15fe05fce0a'>ACE 97</option><option value='acestream://2fa4f5c826b6653a7bdf0026cdac58a966bf047f'>ACE 98</option><option value='acestream://4e59d149b0fcfd6ef45013e3f7e32623d94005e9'>ACE 99</option><option value='acestream://6ff4e62faf15ca6ac9ba5c8c6e4c347b5a554bf9'>ACE 100</option><option value='acestream://67ea1f5d1f04afc1ec5d90e41d5925c0b5f08767'>ACE 101</option><option value='acestream://54faa693c40fa77daff79b22b49fe96e8e71013a'>ACE 102</option><option value='acestream://4ed10176aa6f158a4fa0d8cbcd1fcbb308c44018'>ACE 103</option><option value='acestream://6d9e445e9c557e5d66c5ea84c573ec5fc9badef3'>ACE 104</option><option value='acestream://0b35e5219bdadef1a70d3593c6a4ed98b9c1cdab'>ACE 105</option><option value='acestream://b1b5a43b97a61c09cb3f1d4f3ef156b562aa7d45'>ACE 106</option><option value='acestream://3b6c908c1715714a02f63f528fa44f6f5c915d63'>ACE 107</option><option value='acestream://72edd91033749298ba305effacac8547def37b38'>ACE 108</option><option value='acestream://3eca3e03275705e97082ea51c72498b0b5554135'>ACE 109</option><option value='acestream://b1fca59a2c97982d2be519462e244b0e1d56ff2a'>ACE 110</option><option value='acestream://7ac79a96256aebe5affbdb42a0ce15cb26c2eef8'>ACE 111</option><option value='acestream://07350a9062a9d399e77949a38afacd5c7df75bd4'>ACE 112</option><option value='acestream://6312a9be828cd8cf1e17f102178119cc5fc80794'>ACE 113</option><option value='acestream://7bd977bc40966f827be8c35419bb261de9e8a7eb'>ACE 114</option><option value='acestream://050071266e85faccde37d7881055aa5701f04c0b'>ACE 115</option><option value='acestream://b043892bfa0df210a8886688f1090241dd483b10'>ACE 116</option><option value='acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b'>ACE 117</option><option value='acestream://c801884026f2680238a05094d9fb15804dc80b64'>ACE 118</option><option value='acestream://8d065adeb9603cb93a080930a45eb5bd457483c6'>ACE 119</option><option value='acestream://069431a1199eb2545a14c0a724095e57bdc58e9c'>ACE 120</option><option value='acestream://8982198f7a73d3deae8c20144beb691562be4752'>ACE 121</option><option value='acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535'>ACE 122</option><option value='acestream://b5c017e94b72013902c02f6d145c77f753bc3e12'>ACE 123</option><option value='acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741'>ACE 124</option><option value='acestream://df139bbcd7ae6825b46d5955c52d639f1215346a'>ACE 125</option><option value='acestream://AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'>ACE 126</option><option value='acestream://23482c53d98d447c2384920aeb966549673f29b6'>ACE 127</option><option value='acestream://5e428462cf5f80b0ba5ed17a52fa5ba0278d13d0'>ACE 128</option><option value='acestream://917f6b2185db3038640436011a25b7a989c7e68d'>ACE 129</option><option value='acestream://38e5c260b47bb3e1a6024f675dcfad79e26c6d5b'>ACE 130</option><option value='acestream://1b934ec63c468985b2de585a9b4767b163f1a7d7'>ACE 131</option><option value='acestream://733c9fccfc5775e01dcb9cc09e58a105079159b1'>ACE 132</option><option value='acestream://53797faae7c2254e68e9a22a979a677179f6b031'>ACE 133</option><option value='acestream://b2fd1d497fee333625c7c5774186823509345a44'>ACE 134</option><option value='acestream://493f73e6a26ea1ac44099316c3705cf318782d03'>ACE 135</option><option value='acestream://8e20518af7cf2eba95acf42c3c420afda5a747c2'>ACE 136</option><option value='acestream://261ba9b9df08676256edc1722c7f6f7dcd1531e0'>ACE 137</option><option value='acestream://5cea434c891d27aa66d87d3b23d91ab74c1c72f8'>ACE 138</option><option value='acestream://51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b'>ACE 139</option><option value='acestream://73c4008c455fc900d6e1d4c53ed4958a641295dc'>ACE 140</option><option value='acestream://575e085a4fbc30cdacf1b1ed06af48aca81fc264'>ACE 141</option><option value='acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00'>ACE 142</option><option value='acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12'>ACE 143</option><option value='acestream://402b7a3f0e4900cc74cf2f3c7bd4c2cba581cbd0'>ACE 144</option><option value='acestream://729cec40d3a86d616fade618279b9e619d1e3587'>ACE 145</option><option value='acestream://eae220fcc500446c2033740c0b482c989599ec46'>ACE 146</option><option value='acestream://7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c'>ACE 147</option></select>
                         </div>
                         </a>
                         
@@ -3524,6 +3583,17 @@
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
 <option value='acestream://42fa2381f09293a9a5fcfdb44700a3629177e6d7'>ACE 0</option></select>
+                        </div>
+                        </a>
+                        
+            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
+
+		    <div class="d-flex w-100 justify-content-between">
+
+            <h5 class='mb-1'>Vtv6 1</h5>
+<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
+<option value=''>Link</option>
+<option value='acestream://2acea96426d6860c4adac86163dee4a6b430f5cc'>ACE 0</option></select>
                         </div>
                         </a>
                         
@@ -3600,7 +3670,7 @@
             <h5 class='mb-1'>Zona Dazn</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://2b20cdf87866f3996f35d32a8fb79b42d6bdbee6'>ACE 0</option><option value='acestream://69a72d5fb1c0ba96f19def4d87ed508323365731'>ACE 1</option></select>
+<option value='acestream://69a72d5fb1c0ba96f19def4d87ed508323365731'>ACE 0</option><option value='acestream://2b20cdf87866f3996f35d32a8fb79b42d6bdbee6'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -3611,7 +3681,7 @@
             <h5 class='mb-1'>[* Evento Del Día *]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://68b79de12b9b370bdfa74de65f0696a9b61503ed'>ACE 0</option><option value='acestream://ff5940a3755bbec043a3ac01a64a10292458be5e'>ACE 1</option><option value='acestream://475f2c6ddf64b8f165a55046e8bc03b49cfe25cd'>ACE 2</option><option value='acestream://26fde3b656ab412ce1bea40f20bb45d67c519013'>ACE 3</option><option value='acestream://09fd778cf1b5be89f0d25748b022b6ab1d9d568d'>ACE 4</option><option value='acestream://2bb483350a420da686c5ec597c0ebb729fe908b3'>ACE 5</option></select>
+<option value='acestream://09fd778cf1b5be89f0d25748b022b6ab1d9d568d'>ACE 0</option><option value='acestream://ff5940a3755bbec043a3ac01a64a10292458be5e'>ACE 1</option><option value='acestream://68b79de12b9b370bdfa74de65f0696a9b61503ed'>ACE 2</option><option value='acestream://475f2c6ddf64b8f165a55046e8bc03b49cfe25cd'>ACE 3</option><option value='acestream://2bb483350a420da686c5ec597c0ebb729fe908b3'>ACE 4</option><option value='acestream://26fde3b656ab412ce1bea40f20bb45d67c519013'>ACE 5</option></select>
                         </div>
                         </a>
                         
@@ -3644,7 +3714,7 @@
             <h5 class='mb-1'>[fr] Bein Sports 1</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://c081d8103a2c35749015111ca9a63dc3ef0a0d29'>ACE 0</option><option value='acestream://54cbfaf8ad446499aae28ae50b512d95c263f811'>ACE 1</option></select>
+<option value='acestream://54cbfaf8ad446499aae28ae50b512d95c263f811'>ACE 0</option><option value='acestream://c081d8103a2c35749015111ca9a63dc3ef0a0d29'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -3655,7 +3725,7 @@
             <h5 class='mb-1'>[fr] Bein Sports 2</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://4028ee014198e7db607f54707f53eb3394fadc0f'>ACE 0</option><option value='acestream://6ca7693244d880aed3f109f651e21de58dceb16b'>ACE 1</option><option value='acestream://705e0086f2156e1d76609393666b95a5bd43bebb'>ACE 2</option><option value='acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1'>ACE 3</option></select>
+<option value='acestream://4028ee014198e7db607f54707f53eb3394fadc0f'>ACE 0</option><option value='acestream://705e0086f2156e1d76609393666b95a5bd43bebb'>ACE 1</option><option value='acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1'>ACE 2</option><option value='acestream://6ca7693244d880aed3f109f651e21de58dceb16b'>ACE 3</option></select>
                         </div>
                         </a>
                         
@@ -3710,7 +3780,7 @@
             <h5 class='mb-1'>[pt] Sport Tv 2</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://bed8ce310d90c4c2452167b889543e5912b3c618'>ACE 0</option><option value='acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6'>ACE 1</option></select>
+<option value='acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6'>ACE 0</option><option value='acestream://bed8ce310d90c4c2452167b889543e5912b3c618'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -3721,7 +3791,7 @@
             <h5 class='mb-1'>[ro] Di̇gi̇ Sport 1</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://844bc772279ec0dfdf5c8e230bf43c28c444ca0c'>ACE 0</option><option value='acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe'>ACE 1</option></select>
+<option value='acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe'>ACE 0</option><option value='acestream://844bc772279ec0dfdf5c8e230bf43c28c444ca0c'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -3732,7 +3802,7 @@
             <h5 class='mb-1'>[ro] Di̇gi̇ Sport 2</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://6c5175349940c1fb4ef30b014e631ce9fc5fdb6c'>ACE 0</option><option value='acestream://612dd16be5d5c223e2954a9899bdd121140ab7ad'>ACE 1</option></select>
+<option value='acestream://612dd16be5d5c223e2954a9899bdd121140ab7ad'>ACE 0</option><option value='acestream://6c5175349940c1fb4ef30b014e631ce9fc5fdb6c'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -3754,7 +3824,7 @@
             <h5 class='mb-1'>[ru] Match! Football 1</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://bc3b637f7a1a8d8f52b6224e143a27ec4105b485'>ACE 0</option><option value='acestream://b28db77c5084da7993395d77df96c30bb134f0a9'>ACE 1</option></select>
+<option value='acestream://b28db77c5084da7993395d77df96c30bb134f0a9'>ACE 0</option><option value='acestream://bc3b637f7a1a8d8f52b6224e143a27ec4105b485'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -3765,7 +3835,7 @@
             <h5 class='mb-1'>[ru] Match! Football 1 F</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c'>ACE 0</option><option value='acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab'>ACE 1</option><option value='acestream://6ca7693244d880aed3f109f651e21de58dceb16b'>ACE 2</option></select>
+<option value='acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab'>ACE 0</option><option value='acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c'>ACE 1</option><option value='acestream://6ca7693244d880aed3f109f651e21de58dceb16b'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -3776,7 +3846,7 @@
             <h5 class='mb-1'>[ru] Match! Football 2</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://65489ea9c29e02dbd2ffb7597b3c592dec7e85e8'>ACE 0</option><option value='acestream://4e19bdec612a576b5d2afd750e40456bd4a5f3bc'>ACE 1</option><option value='acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04'>ACE 2</option></select>
+<option value='acestream://65489ea9c29e02dbd2ffb7597b3c592dec7e85e8'>ACE 0</option><option value='acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04'>ACE 1</option><option value='acestream://4e19bdec612a576b5d2afd750e40456bd4a5f3bc'>ACE 2</option></select>
                         </div>
                         </a>
                         
@@ -3853,7 +3923,7 @@
             <h5 class='mb-1'>[uk] Bt Sport 2</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801'>ACE 0</option><option value='acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737'>ACE 1</option></select>
+<option value='acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737'>ACE 0</option><option value='acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -3927,6 +3997,17 @@
 
 		    <div class="d-flex w-100 justify-content-between">
 
+            <h5 class='mb-1'>Авто 24 [ru]</h5>
+<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
+<option value=''>Link</option>
+<option value='acestream://7e515477cf191b1e4e33c7151c7cf84925f16780'>ACE 0</option></select>
+                        </div>
+                        </a>
+                        
+            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
+
+		    <div class="d-flex w-100 justify-content-between">
+
             <h5 class='mb-1'>Авто Плюс [ru]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
@@ -3941,7 +4022,7 @@
             <h5 class='mb-1'>Астрахань.ru Sport</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
-<option value='acestream://b63943c30eebd1c3d1a7292af23ce12f8867f5a9'>ACE 0</option><option value='acestream://22e135d004dcbe5a8c05c71172b118304564f01a'>ACE 1</option></select>
+<option value='acestream://22e135d004dcbe5a8c05c71172b118304564f01a'>ACE 0</option><option value='acestream://b63943c30eebd1c3d1a7292af23ce12f8867f5a9'>ACE 1</option></select>
                         </div>
                         </a>
                         
@@ -3971,32 +4052,10 @@
 
 		    <div class="d-flex w-100 justify-content-between">
 
-            <h5 class='mb-1'>Драйв [ru]</h5>
-<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
-<option value=''>Link</option>
-<option value='acestream://2893ea38cf923c7efcfaf3eead798dd73b2cf2d0'>ACE 0</option></select>
-                        </div>
-                        </a>
-                        
-            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
-
-		    <div class="d-flex w-100 justify-content-between">
-
             <h5 class='mb-1'>Конный Мир [ru]</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
 <option value='acestream://96951e5de62a3e7095a1ed8a191817c8935e7017'>ACE 0</option></select>
-                        </div>
-                        </a>
-                        
-            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
-
-		    <div class="d-flex w-100 justify-content-between">
-
-            <h5 class='mb-1'>Кхл [ru]</h5>
-<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
-<option value=''>Link</option>
-<option value='acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b'>ACE 0</option></select>
                         </div>
                         </a>
                         
@@ -4015,32 +4074,10 @@
 
 		    <div class="d-flex w-100 justify-content-between">
 
-            <h5 class='mb-1'>Матч! Планета [ru]</h5>
-<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
-<option value=''>Link</option>
-<option value='acestream://106c8656fca0ca91a696110467788d202d7111af'>ACE 0</option></select>
-                        </div>
-                        </a>
-                        
-            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
-
-		    <div class="d-flex w-100 justify-content-between">
-
             <h5 class='mb-1'>Матч! Страна</h5>
 <select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
 <option value=''>Link</option>
 <option value='acestream://92cf22bec3199684180573847acc35cd063b6938'>ACE 0</option></select>
-                        </div>
-                        </a>
-                        
-            <a href="javascript:void(0);" class="list-group-item list-group-item-action" aria-current="true">
-
-		    <div class="d-flex w-100 justify-content-between">
-
-            <h5 class='mb-1'>Матч! Страна [ru]</h5>
-<select onchange='this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);'>
-<option value=''>Link</option>
-<option value='acestream://ef9c77bd94783448b8edb552109f5f15b2bd82d1'>ACE 0</option></select>
                         </div>
                         </a>
                         
