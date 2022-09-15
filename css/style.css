@@ -1,13 +1,21 @@
 @import url("https://fonts.googleapis.com/css?family=Orbitron:500");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
 body {
-  background: #0f1516;
+  background: #ffffff;
   font-family: 'Open Sans', sans-serif;
 }
 @media (max-width: 33.9em) {
   body {
     font-size: 0.7em;
   }
+}
+.info_header {
+    color: fuchsia;
+}
+
+.input_with_img {
+    background: url(../icons/searchicon.png) no-repeat scroll 7px 7px;
+    padding-left:30px;
 }
 .bg-gradient {
   background: #192224;
@@ -300,7 +308,7 @@ section.main .post .read-more {
   }
 }
 .menu-bg {
-  background: #000;
+  background: #fff;
   display: none;
   opacity: 0;
   width: 100vw;
