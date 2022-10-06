@@ -311,9 +311,6 @@ acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
 #EXTINF:-1, 11:00 | Tennis | Atp Challenger Tour | Alicante [quarters] (option 0)
 acestream://50b0b7c4bc0bf8511b445602d8259a5578cc0e32
 
-#EXTINF:-1, 11:30 | Ice Hockey | Admiral –  Lokomotiv (option 0)
-acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
-
 #EXTINF:-1, 11:30 | Motogp | Portimao Gp | Free Trainnig 1 (option 0)
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
@@ -421,6 +418,12 @@ acestream://09fd778cf1b5be89f0d25748b022b6ab1d9d568d
 
 #EXTINF:-1, 14:50 | Uci Proseries Omegna › Omegna (198 Km) (option 3)
 acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
+
+#EXTINF:-1, 15:00 | Ice Hockey | Nomad –  Beibarys Atyrau (option 0)
+acestream://b7e8c3bae5d98a4f842f334ff57604de9886f5c7
+
+#EXTINF:-1, 15:00 | Cycling | Giro del Piemonte (option 0)
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 #EXTINF:-1, 15:30 | E. Ruusuvuori - D. Medvedev (option 0)
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
@@ -1098,13 +1101,13 @@ acestream://897e73c9d578848f596585314ecb9ae067c0e229
 acestream://26fde3b656ab412ce1bea40f20bb45d67c519013
 
 #EXTINF:-1, 20:00 | Panathinaikos Bc - Real Madrid Baloncesto (option 2)
-acestream://84af46abab9de02bdd22818747738cfa5438132e
+acestream://9f27ea73230f9c65034601636dbfe39de43a8212
 
 #EXTINF:-1, 20:00 | Panathinaikos Bc - Real Madrid Baloncesto (option 3)
 acestream://dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
 
 #EXTINF:-1, 20:00 | Panathinaikos Bc - Real Madrid Baloncesto (option 4)
-acestream://9f27ea73230f9c65034601636dbfe39de43a8212
+acestream://84af46abab9de02bdd22818747738cfa5438132e
 
 #EXTINF:-1, 20:00 | Panathinaikos Bc - Real Madrid Baloncesto (option 5)
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
