@@ -308,9 +308,6 @@ acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
 #EXTINF:-1, 11:00 | D. Shapovalov - R. Noguchi (option 0)
 acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
 
-#EXTINF:-1, 11:00 | Ice Hockey | Amur –  Sochi (option 0)
-acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-
 #EXTINF:-1, 11:00 | Tennis | Atp Challenger Tour | Alicante [quarters] (option 0)
 acestream://50b0b7c4bc0bf8511b445602d8259a5578cc0e32
 
@@ -323,7 +320,7 @@ acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 #EXTINF:-1, 11:30 | Motogp | Portimao Gp | Free Trainnig 1 (option 1)
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 
-#EXTINF:-1, 12:00 | 2a Ronda Wta 500 (option 0)
+#EXTINF:-1, 12:00 | A. Parks - M. Sakkari (option 0)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 12:00 | Gymnastics | Strongest Cup (option 0)
@@ -352,6 +349,9 @@ acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
 
 #EXTINF:-1, 13:00 | Snooker | Hong Kong Masters | Quarters (option 0)
 acestream://50b0b7c4bc0bf8511b445602d8259a5578cc0e32
+
+#EXTINF:-1, 13:30 | C. Mcnally - K. Muchova (option 0)
+acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 14:00 | Jornada 1 Club De Campo Villa De Madrid (option 0)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
@@ -406,6 +406,9 @@ acestream://cb57de633925bc75a2c55c138d8b0ae20d074a92
 
 #EXTINF:-1, 14:00 | Golf | Dp World Tour | Acciona Spanish Open-stage 2 (option 2)
 acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
+
+#EXTINF:-1, 14:30 | Ice Hockey | Sibir –  CSKA (option 0)
+acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
 
 #EXTINF:-1, 14:50 | Uci Proseries Omegna › Omegna (198 Km) (option 0)
 acestream://fe5aa790ff0535f2a5e3392bbff41e92d41132ef
@@ -490,6 +493,9 @@ acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
 #EXTINF:-1, 18:00 | Milwaukee Bucks - Atlanta Hawks (option 4)
 acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+
+#EXTINF:-1, 18:00 | A. Kontaveit - T. Martincova (option 0)
+acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 18:00 | Soccer | Uefa Champions League | Riga-benifca (option 0)
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
@@ -1072,6 +1078,9 @@ acestream://84af46abab9de02bdd22818747738cfa5438132e
 
 #EXTINF:-1, 19:15 | Basketball | Euroleague | Anadolu Efes-belgrade (option 1)
 acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e
+
+#EXTINF:-1, 19:30 | E. Alexandrova - D. Kasatkina (option 0)
+acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 19:45 | Basketball | Euroleague | Panathinaikos-real Madrid (option 0)
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f

@@ -32,6 +32,9 @@ acestream://1ad7a4f8e4989d4d4fcf7e7de9f630c24f8c5425
 #EXTINF:-1, All Sports (option 0)
 acestream://e26a359efe269af158923a63d69884bfe12a33cc
 
+#EXTINF:-1, Amazon Prime Video 1 [be] (option 0)
+acestream://5323ccadb659f7d3cb5fa2e5835c5af362e144d6
+
 #EXTINF:-1, Amazon Prime Video 2 [be] (option 0)
 acestream://2926e34c63d83764f9c6671da53397d55041b4ea
 
@@ -210,10 +213,10 @@ acestream://3e87464ed8c42ed14464461ea08860a3040a8944
 acestream://04448c3ca0b7518819491e468adbabc8a2551bd7
 
 #EXTINF:-1, Cbs (option 0)
-acestream://0e9cb75929cae2a584ac66c0ad8ad79debafb5f9
+acestream://a09b0f3642c5e5c844876e35b60a68c34afb4842
 
 #EXTINF:-1, Cbs (option 1)
-acestream://a09b0f3642c5e5c844876e35b60a68c34afb4842
+acestream://0e9cb75929cae2a584ac66c0ad8ad79debafb5f9
 
 #EXTINF:-1, Cbs Tv Korea Usa/uk/canadian/spain (option 0)
 acestream://c7da0177408ef80415bd0ffa0cadb1da381a2b84
@@ -515,6 +518,9 @@ acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1, Espn [us] (option 1)
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
+#EXTINF:-1, Euro1 Deportes (option 0)
+acestream://626fc7cf70680d1d77b4b5293be94f63c910ee92
+
 #EXTINF:-1, Eurosport 1 (option 0)
 acestream://fe5aa790ff0535f2a5e3392bbff41e92d41132ef
 
@@ -611,9 +617,6 @@ acestream://49b734a5a3365674480089264be00ae28fabb640
 #EXTINF:-1, Fightklub [pl] (option 0)
 acestream://b73da828421018c98905ed05934b77ea35aa1b29
 
-#EXTINF:-1, Fox (option 0)
-acestream://de21a1daf88aa86b70bcdb37c77e0996f7a0895c
-
 #EXTINF:-1, Fox 3 Argentina (option 0)
 acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 
@@ -628,9 +631,6 @@ acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 
 #EXTINF:-1, Fox [pl] (option 0)
 acestream://ade7437d52002e864f851c4de016923dcd6d2548
-
-#EXTINF:-1, Fox [ru] (option 0)
-acestream://df94afd23701839b3fdcdf669c73f2e3d656126e
 
 #EXTINF:-1, Fs1 (option 0)
 acestream://96b44364d098cc187a3edb1df75109be69dda599
@@ -824,9 +824,6 @@ acestream://037470cdfc25cde6f5b0ac55376ae0be73354f9c
 #EXTINF:-1, Moldova 1 (option 1)
 acestream://b7564306ba2b941455909b0a61e20e8cff0e88ab
 
-#EXTINF:-1, Moldova 2 (option 0)
-acestream://b58ff31850d94a1bd52b276322420a7461e715e7
-
 #EXTINF:-1, Moldova1 (option 0)
 acestream://5ab26c2148693dbbd3331d3b12f855ae954f777c
 
@@ -915,42 +912,45 @@ acestream://b779e6056975e3682a804d47cbd5cc806217f64d
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
 #EXTINF:-1, Movistar Laliga (option 0)
-acestream://c81fb4bec54fed86737544c5609bb863b4acb292
+acestream://430e1a4a0c26c14b6d427632b72cb92b83dc7302
 
 #EXTINF:-1, Movistar Laliga (option 1)
-acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+acestream://c81fb4bec54fed86737544c5609bb863b4acb292
 
 #EXTINF:-1, Movistar Laliga (option 2)
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
+acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 
 #EXTINF:-1, Movistar Laliga (option 3)
-acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168
+acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 
 #EXTINF:-1, Movistar Laliga (option 4)
-acestream://c72263175266c90d376dcb8607c28e02939c1873
+acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168
 
 #EXTINF:-1, Movistar Laliga (option 5)
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+acestream://c72263175266c90d376dcb8607c28e02939c1873
 
 #EXTINF:-1, Movistar Laliga (option 6)
-acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 
 #EXTINF:-1, Movistar Laliga (option 7)
-acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 
 #EXTINF:-1, Movistar Laliga (option 8)
-acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
+acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f
 
 #EXTINF:-1, Movistar Laliga (option 9)
-acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
+acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
 
 #EXTINF:-1, Movistar Laliga (option 10)
-acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
 
 #EXTINF:-1, Movistar Laliga (option 11)
-acestream://d5c864a71052159a3dc86d040023bcdb7b736ad0
+acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 
 #EXTINF:-1, Movistar Laliga (option 12)
+acestream://d5c864a71052159a3dc86d040023bcdb7b736ad0
+
+#EXTINF:-1, Movistar Laliga (option 13)
 acestream://bbd20072e7123a3ac6dd156c5e67789d8ed1bcfa
 
 #EXTINF:-1, Movistar Laliga 1 (option 0)
@@ -1371,10 +1371,10 @@ acestream://0c4264b1fdd37437a16ec96f0fa6579e8dccf369
 acestream://1f7f167c28cc81d54eece8a479ad53131159d4f1
 
 #EXTINF:-1, Sky Sport 2 [de] (option 1)
-acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
+acestream://853648b45310628232e72b93aa9def60d18e0e1a
 
 #EXTINF:-1, Sky Sport 2 [de] (option 2)
-acestream://853648b45310628232e72b93aa9def60d18e0e1a
+acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
 
 #EXTINF:-1, Sky Sport 3 [de] (option 0)
 acestream://0b7aa69bfdcc3cd3d8e329db17d03e27858e40fe
@@ -1399,9 +1399,6 @@ acestream://21451b2efff2994cc9324ef0979a4f2d5d6b232e
 
 #EXTINF:-1, Sky Sport Formula 1 [de] (option 0)
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-
-#EXTINF:-1, Sky Sport Premier League [uk] (option 0)
-acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 #EXTINF:-1, Sky Sports (option 0)
 acestream://96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
@@ -1431,10 +1428,10 @@ acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 acestream://274d2775d51db60cb00b173e5faf65a8024e784e
 
 #EXTINF:-1, Sport 2 [pl] (option 0)
-acestream://26f9aac6fbf1f18635d81dc6f0d38ed926eeb69f
+acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
 
 #EXTINF:-1, Sport 2 [pl] (option 1)
-acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
+acestream://26f9aac6fbf1f18635d81dc6f0d38ed926eeb69f
 
 #EXTINF:-1, Sport 2 [pl] (option 2)
 acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
@@ -1557,91 +1554,91 @@ acestream://0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
 acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
 
 #EXTINF:-1, Unknown (option 0)
-acestream://9b4590ba1f27532eba6d53383e89dace8e8d6ba3
-
-#EXTINF:-1, Unknown (option 1)
-acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
-
-#EXTINF:-1, Unknown (option 2)
-acestream://65d49691687add6a93692a757817bac4f204ed1f
-
-#EXTINF:-1, Unknown (option 3)
-acestream://d2a36e305458e200c2a4952317fc33e38bd80187
-
-#EXTINF:-1, Unknown (option 4)
 acestream://d67f201bfdc47d376b6195d50a3ac3ee231a92a5
 
-#EXTINF:-1, Unknown (option 5)
-acestream://ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0
-
-#EXTINF:-1, Unknown (option 6)
-acestream://1daa76849a31201ea22c3c4cbdd4b4afc1c45f14
-
-#EXTINF:-1, Unknown (option 7)
-acestream://b2c8dfc5ec5fdfb098ae4285335ee465f0b63885
-
-#EXTINF:-1, Unknown (option 8)
-acestream://3c679a39456838ea8abc77b288c95df2b7a3f45d
-
-#EXTINF:-1, Unknown (option 9)
-acestream://23482c53d98d447c2384920aeb966549673f29b6
-
-#EXTINF:-1, Unknown (option 10)
-acestream://51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b
-
-#EXTINF:-1, Unknown (option 11)
+#EXTINF:-1, Unknown (option 1)
 acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
 
-#EXTINF:-1, Unknown (option 12)
-acestream://729cec40d3a86d616fade618279b9e619d1e3587
+#EXTINF:-1, Unknown (option 2)
+acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
 
-#EXTINF:-1, Unknown (option 13)
-acestream://b7a2ebb4e71055893ebf7f08fcb8ec797564ae52
+#EXTINF:-1, Unknown (option 3)
+acestream://65d49691687add6a93692a757817bac4f204ed1f
 
-#EXTINF:-1, Unknown (option 14)
-acestream://0ca12cd9ca7f45d95b962daa7be02e5a34479925
+#EXTINF:-1, Unknown (option 4)
+acestream://21fcd8e73936b64435d07832c2d8382609f48d6d
 
-#EXTINF:-1, Unknown (option 15)
-acestream://fbc1ac193ac0b9ce322647ecf46089724bbdb046
+#EXTINF:-1, Unknown (option 5)
+acestream://9b4590ba1f27532eba6d53383e89dace8e8d6ba3
 
-#EXTINF:-1, Unknown (option 16)
-acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
-
-#EXTINF:-1, Unknown (option 17)
-acestream://c349936b7b036f05bade2852b15fe56c6ba98305
-
-#EXTINF:-1, Unknown (option 18)
-acestream://192ca66e1e39bec710e286780c49bcc432258636
-
-#EXTINF:-1, Unknown (option 19)
-acestream://5e38456d774827e7312b7eabdde388532a3dfec9
-
-#EXTINF:-1, Unknown (option 20)
-acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
-
-#EXTINF:-1, Unknown (option 21)
-acestream://54c5166475563784a367313ffd231402eeedadcd
-
-#EXTINF:-1, Unknown (option 22)
-acestream://a9b9a780684a361339c14b43c58cb1c511dc4d9e
-
-#EXTINF:-1, Unknown (option 23)
-acestream://2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
-
-#EXTINF:-1, Unknown (option 24)
+#EXTINF:-1, Unknown (option 6)
 acestream://ef9c77bd94783448b8edb552109f5f15b2bd82d1
 
+#EXTINF:-1, Unknown (option 7)
+acestream://ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0
+
+#EXTINF:-1, Unknown (option 8)
+acestream://1daa76849a31201ea22c3c4cbdd4b4afc1c45f14
+
+#EXTINF:-1, Unknown (option 9)
+acestream://b2c8dfc5ec5fdfb098ae4285335ee465f0b63885
+
+#EXTINF:-1, Unknown (option 10)
+acestream://3c679a39456838ea8abc77b288c95df2b7a3f45d
+
+#EXTINF:-1, Unknown (option 11)
+acestream://23482c53d98d447c2384920aeb966549673f29b6
+
+#EXTINF:-1, Unknown (option 12)
+acestream://51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b
+
+#EXTINF:-1, Unknown (option 13)
+acestream://729cec40d3a86d616fade618279b9e619d1e3587
+
+#EXTINF:-1, Unknown (option 14)
+acestream://b7a2ebb4e71055893ebf7f08fcb8ec797564ae52
+
+#EXTINF:-1, Unknown (option 15)
+acestream://0ca12cd9ca7f45d95b962daa7be02e5a34479925
+
+#EXTINF:-1, Unknown (option 16)
+acestream://fbc1ac193ac0b9ce322647ecf46089724bbdb046
+
+#EXTINF:-1, Unknown (option 17)
+acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
+
+#EXTINF:-1, Unknown (option 18)
+acestream://c349936b7b036f05bade2852b15fe56c6ba98305
+
+#EXTINF:-1, Unknown (option 19)
+acestream://192ca66e1e39bec710e286780c49bcc432258636
+
+#EXTINF:-1, Unknown (option 20)
+acestream://5e38456d774827e7312b7eabdde388532a3dfec9
+
+#EXTINF:-1, Unknown (option 21)
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+
+#EXTINF:-1, Unknown (option 22)
+acestream://54c5166475563784a367313ffd231402eeedadcd
+
+#EXTINF:-1, Unknown (option 23)
+acestream://a9b9a780684a361339c14b43c58cb1c511dc4d9e
+
+#EXTINF:-1, Unknown (option 24)
+acestream://89615b8352e81796221f4d504dded6cdc38c947b
+
 #EXTINF:-1, Unknown (option 25)
-acestream://1b74777f3b2121d067457fc554beb5e1c26b6cd8
+acestream://402b7a3f0e4900cc74cf2f3c7bd4c2cba581cbd0
 
 #EXTINF:-1, Unknown (option 26)
-acestream://b40887a75fbb511f95a43c33b24e058b3050143d
+acestream://bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac
 
 #EXTINF:-1, Unknown (option 27)
-acestream://ddb42884acd341255390cda62387b5a42d8c2180
+acestream://f5d3ea421c4c067b5c90161a8ae4d93482fb9edd
 
 #EXTINF:-1, Unknown (option 28)
-acestream://49552fcef0397a9f48f7520247ee414a085f61e2
+acestream://e5546c985741ec758b39030c59ade2f3a311a06e
 
 #EXTINF:-1, Unknown (option 29)
 acestream://cd421b221ef7bae31a599542cd9c061fc66b30aa
@@ -1650,91 +1647,91 @@ acestream://cd421b221ef7bae31a599542cd9c061fc66b30aa
 acestream://1d316bb0fd6a7741ac8c9a8972b6710e71d84791
 
 #EXTINF:-1, Unknown (option 31)
-acestream://e5546c985741ec758b39030c59ade2f3a311a06e
+acestream://49552fcef0397a9f48f7520247ee414a085f61e2
 
 #EXTINF:-1, Unknown (option 32)
-acestream://b705d80b16ee6704e80a091262eda988d1ae6210
+acestream://ddb42884acd341255390cda62387b5a42d8c2180
 
 #EXTINF:-1, Unknown (option 33)
-acestream://f5d3ea421c4c067b5c90161a8ae4d93482fb9edd
+acestream://b40887a75fbb511f95a43c33b24e058b3050143d
 
 #EXTINF:-1, Unknown (option 34)
 acestream://b85a8f5825dc7fca3e8046af445bb776541b8bd0
 
 #EXTINF:-1, Unknown (option 35)
-acestream://7222fcd5c4efe1f4beee535acac83fc195bc51d3
-
-#EXTINF:-1, Unknown (option 36)
 acestream://7135a124f24deca70fb59fa1c413dfe580f1981a
 
-#EXTINF:-1, Unknown (option 37)
+#EXTINF:-1, Unknown (option 36)
 acestream://21f0299cce733ec3a481135553de468440b3630f
 
-#EXTINF:-1, Unknown (option 38)
+#EXTINF:-1, Unknown (option 37)
 acestream://3f5507b9b6db4d1765457aea6f2f60e8daa6e8dc
 
-#EXTINF:-1, Unknown (option 39)
+#EXTINF:-1, Unknown (option 38)
 acestream://c6214ad7d6d38c44916fb1a6fd5a3b6758a720b4
 
-#EXTINF:-1, Unknown (option 40)
+#EXTINF:-1, Unknown (option 39)
 acestream://cc5f7b6ea29b19b5ec6eef565d49a698340b4943
 
-#EXTINF:-1, Unknown (option 41)
+#EXTINF:-1, Unknown (option 40)
 acestream://d09de8044608823f95fdf8c12a6127c047bb04f8
 
-#EXTINF:-1, Unknown (option 42)
+#EXTINF:-1, Unknown (option 41)
 acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
 
-#EXTINF:-1, Unknown (option 43)
+#EXTINF:-1, Unknown (option 42)
 acestream://05fe94b726e99b1dd548013bd281980f9f27b617
+
+#EXTINF:-1, Unknown (option 43)
+acestream://1551e470722e04eea8d86ae8d84f2c864532d5ad
 
 #EXTINF:-1, Unknown (option 44)
 acestream://598900f86da2a7b2f9b17972b2070e8de4bf4e19
 
 #EXTINF:-1, Unknown (option 45)
-acestream://1551e470722e04eea8d86ae8d84f2c864532d5ad
-
-#EXTINF:-1, Unknown (option 46)
 acestream://05a4d3a925f74cd093dfe2313617a97d1b74c6ab
 
-#EXTINF:-1, Unknown (option 47)
+#EXTINF:-1, Unknown (option 46)
 acestream://55b69cac18cbeb14c00705d06bc3396f7f6b7070
 
-#EXTINF:-1, Unknown (option 48)
+#EXTINF:-1, Unknown (option 47)
 acestream://ed699504c5010cab9046530306960e998a92f5e6
 
+#EXTINF:-1, Unknown (option 48)
+acestream://7222fcd5c4efe1f4beee535acac83fc195bc51d3
+
 #EXTINF:-1, Unknown (option 49)
-acestream://38efc26a90d79b2d8c70024ab13631829292764c
+acestream://1b74777f3b2121d067457fc554beb5e1c26b6cd8
 
 #EXTINF:-1, Unknown (option 50)
-acestream://7231e7cafb290ee9190178678a4cda75603af9cf
+acestream://38efc26a90d79b2d8c70024ab13631829292764c
 
 #EXTINF:-1, Unknown (option 51)
-acestream://64b49ca640deb1afd64ff9372490336386c907e5
+acestream://7231e7cafb290ee9190178678a4cda75603af9cf
 
 #EXTINF:-1, Unknown (option 52)
-acestream://2128074a1ebba9d320b148d25001b356f1057dda
+acestream://62f68471bab075eb96e5db4559e7994427db111b
 
 #EXTINF:-1, Unknown (option 53)
-acestream://3814b39d024f50efefb0a30cccf33bac16842328
+acestream://6c82a952053419ef358907fc2fc52151626be0b7
 
 #EXTINF:-1, Unknown (option 54)
-acestream://7015b3cf310d39770ce0926b768df256cd3f9692
+acestream://3814b39d024f50efefb0a30cccf33bac16842328
 
 #EXTINF:-1, Unknown (option 55)
-acestream://61c8e867268715eae83f9934e9bc08b1bb6a9227
+acestream://64b49ca640deb1afd64ff9372490336386c907e5
 
 #EXTINF:-1, Unknown (option 56)
-acestream://bcc2baf6cfa86aadcbbf5788fcf9d9a017fdea1b
+acestream://7015b3cf310d39770ce0926b768df256cd3f9692
 
 #EXTINF:-1, Unknown (option 57)
-acestream://d009cf6827d73c2bfc083df530bb0fea91880feb
+acestream://61c8e867268715eae83f9934e9bc08b1bb6a9227
 
 #EXTINF:-1, Unknown (option 58)
-acestream://07d24566226c5851b9c3a3235e3451854d6baeac
+acestream://bcc2baf6cfa86aadcbbf5788fcf9d9a017fdea1b
 
 #EXTINF:-1, Unknown (option 59)
-acestream://62f68471bab075eb96e5db4559e7994427db111b
+acestream://70b635b202b7739508e45f0b6a362e0accfeda94
 
 #EXTINF:-1, Unknown (option 60)
 acestream://5cea434c891d27aa66d87d3b23d91ab74c1c72f8
@@ -1752,58 +1749,58 @@ acestream://4958afe76b11f4083059b9ccecbbe513d223756b
 acestream://5d923b187e901b6f81ebc456bfa12ed9fbcebe77
 
 #EXTINF:-1, Unknown (option 65)
-acestream://ba248210b26507ce559562176509ea76c2839153
+acestream://eaa7ec6dab17cb8360b5e9b5fcb468a35813752e
 
 #EXTINF:-1, Unknown (option 66)
-acestream://9426afaed3fff9ed267dcc582f7b370a9d529357
+acestream://ba248210b26507ce559562176509ea76c2839153
 
 #EXTINF:-1, Unknown (option 67)
-acestream://d9e6647ec274ba4eb8d2e4fc50f3228244f48f57
+acestream://9426afaed3fff9ed267dcc582f7b370a9d529357
 
 #EXTINF:-1, Unknown (option 68)
-acestream://ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6
+acestream://d009cf6827d73c2bfc083df530bb0fea91880feb
 
 #EXTINF:-1, Unknown (option 69)
-acestream://ce7062654e327d9de47d35539b2c6ae94b5ce170
+acestream://07d24566226c5851b9c3a3235e3451854d6baeac
 
 #EXTINF:-1, Unknown (option 70)
-acestream://5b1f4a0fb8abc134de4692179b55e4008f0e5e82
+acestream://9aeaf53c3d1c1fe05f024a587a11af1b6b882255
 
 #EXTINF:-1, Unknown (option 71)
-acestream://fb95bc9a124b6b6d8a2e004152f99e30988dc839
+acestream://ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6
 
 #EXTINF:-1, Unknown (option 72)
-acestream://2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
+acestream://ce7062654e327d9de47d35539b2c6ae94b5ce170
 
 #EXTINF:-1, Unknown (option 73)
-acestream://7f181a2f619fa8026176c53545ffd04f3038aa44
+acestream://5b1f4a0fb8abc134de4692179b55e4008f0e5e82
 
 #EXTINF:-1, Unknown (option 74)
 acestream://d36d325e6ef567974b1a267e3e87dff145922de5
 
 #EXTINF:-1, Unknown (option 75)
-acestream://00d0649880b17050d8a9ed559fc824f98fd578be
+acestream://2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
 
 #EXTINF:-1, Unknown (option 76)
-acestream://9200167f75f207fca91448547c24685f30beb82e
+acestream://fb95bc9a124b6b6d8a2e004152f99e30988dc839
 
 #EXTINF:-1, Unknown (option 77)
-acestream://ac8ea29dd2d7a341917a981c85a62e375291caa8
+acestream://00d0649880b17050d8a9ed559fc824f98fd578be
 
 #EXTINF:-1, Unknown (option 78)
-acestream://421576fc56e2b5d82dbb37921eb90fce39ce6ba4
-
-#EXTINF:-1, Unknown (option 79)
-acestream://edc166b2e10484c409f69d8e34de501a8672fa63
-
-#EXTINF:-1, Unknown (option 80)
 acestream://09f099db0453cf7517e133533aadfd5136eca771
 
+#EXTINF:-1, Unknown (option 79)
+acestream://9cd5a5ee3d83b36cd5dd36dbc912e37531df482b
+
+#EXTINF:-1, Unknown (option 80)
+acestream://edc166b2e10484c409f69d8e34de501a8672fa63
+
 #EXTINF:-1, Unknown (option 81)
-acestream://9aeaf53c3d1c1fe05f024a587a11af1b6b882255
+acestream://550a010240fa5f587510bd668e695a356d7585f2
 
 #EXTINF:-1, Unknown (option 82)
-acestream://9cd5a5ee3d83b36cd5dd36dbc912e37531df482b
+acestream://2eb5ba19850a73940dfe64a155fe1c0c61487d81
 
 #EXTINF:-1, Unknown (option 83)
 acestream://eae220fcc500446c2033740c0b482c989599ec46
@@ -1818,6 +1815,9 @@ acestream://5988dc4ef60bf2f77939026578ac80771f2938c2
 acestream://062258a94106b737b3f938ac1c53e193d674b0c3
 
 #EXTINF:-1, Unknown (option 87)
+acestream://87ea602f75b96aebc06bdc96b135e21756706702
+
+#EXTINF:-1, Unknown (option 88)
 acestream://65707378011c08c27dca1f0162d545f369756c5f
 
 #EXTINF:-1, Viasat Sport (option 0)
