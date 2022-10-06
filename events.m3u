@@ -185,9 +185,6 @@ acestream://cb57de633925bc75a2c55c138d8b0ae20d074a92
 #EXTINF:-1, 07:00 | Tennis | Atp World Tour 500 | Astana (option 4)
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
 
-#EXTINF:-1, 07:30 | Billiard | Hong Kong Masters (option 0)
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-
 #EXTINF:-1, 08:00 | M. Cilic - K. Khachanov (option 0)
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 
@@ -350,6 +347,9 @@ acestream://780d7705e15c6695ced40cd5d5a692752523dd21
 #EXTINF:-1, 12:30 | H. Moriya - T. Fritz (option 0)
 acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
 
+#EXTINF:-1, 13:00 | Billiard | Hong Kong Masters (option 0)
+acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
+
 #EXTINF:-1, 13:00 | Snooker | Hong Kong Masters | Quarters (option 0)
 acestream://50b0b7c4bc0bf8511b445602d8259a5578cc0e32
 
@@ -370,6 +370,9 @@ acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
 #EXTINF:-1, 14:00 | B. Van De Zandschulp - N. Djokovic (option 4)
 acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+
+#EXTINF:-1, 14:00 | Combat Sport | 2022 World Championships (option 0)
+acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
 
 #EXTINF:-1, 14:00 | Soccer | Uefa Youth League | Marseille-sporting Portugal (option 0)
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
