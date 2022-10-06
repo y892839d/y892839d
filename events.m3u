@@ -278,6 +278,9 @@ acestream://c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:-1, 08:00 | F1 | Japan Gp | Free Trainning 2 (option 2)
 acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 
+#EXTINF:-1, 08:10 | Tennis | ATP. Astana (option 0)
+acestream://b7e8c3bae5d98a4f842f334ff57604de9886f5c7
+
 #EXTINF:-1, 09:30 | A. Bublik - H. Hurkacz (option 0)
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 
@@ -308,8 +311,14 @@ acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
 #EXTINF:-1, 11:00 | D. Shapovalov - R. Noguchi (option 0)
 acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
 
+#EXTINF:-1, 11:00 | Ice Hockey | Amur –  Sochi (option 0)
+acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+
 #EXTINF:-1, 11:00 | Tennis | Atp Challenger Tour | Alicante [quarters] (option 0)
 acestream://50b0b7c4bc0bf8511b445602d8259a5578cc0e32
+
+#EXTINF:-1, 11:30 | Ice Hockey | Admiral –  Lokomotiv (option 0)
+acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
 
 #EXTINF:-1, 11:30 | Motogp | Portimao Gp | Free Trainnig 1 (option 0)
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
@@ -331,6 +340,12 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
 #EXTINF:-1, 12:00 | Tennis | Wta World Tour | Ostrava [last 16] (option 1)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
+
+#EXTINF:-1, 12:05 | Tennis | WTA. Monastir (option 0)
+acestream://c9354414ae22fb6d21658d87aba4738bf21a6e72
+
+#EXTINF:-1, 12:10 | Tennis | WTA. Ostrava (option 0)
+acestream://780d7705e15c6695ced40cd5d5a692752523dd21
 
 #EXTINF:-1, 12:30 | H. Moriya - T. Fritz (option 0)
 acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
