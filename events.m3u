@@ -335,45 +335,6 @@ acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
 #EXTINF:-1, 12:30 | Tennis | Atp World Tour 500 | Astana [final] (option 1)
 acestream://e40b29774fdfd953751a71f5695f647726623b9d
 
-#EXTINF:-1, 13:00 | Football | Spartak M –  Krylia Sovetov (option 0)
-acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-
-#EXTINF:-1, 13:00 | Football | Spartak M –  Krylia Sovetov (option 1)
-acestream://70b635b202b7739508e45f0b6a362e0accfeda94
-
-#EXTINF:-1, 13:00 | Football | Spartak M –  Krylia Sovetov (option 2)
-acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
-
-#EXTINF:-1, 13:00 | Football | Spartak M –  Krylia Sovetov (option 3)
-acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1
-
-#EXTINF:-1, 13:00 | Football | Spartak M –  Krylia Sovetov (option 4)
-acestream://904171be222a00f513debf23fbc8da283112eb97
-
-#EXTINF:-1, 13:00 | Football | Spartak M –  Krylia Sovetov (option 5)
-acestream://f254bb19c9f01052c2b7f364860c553820d7fbf9
-
-#EXTINF:-1, 13:00 | Football | Huddersfield –  Hull City (option 0)
-acestream://c9354414ae22fb6d21658d87aba4738bf21a6e72
-
-#EXTINF:-1, 13:00 | Football | Montpellier –  AS Monaco (option 0)
-acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
-
-#EXTINF:-1, 13:00 | Football | Montpellier –  AS Monaco (option 1)
-acestream://780d7705e15c6695ced40cd5d5a692752523dd21
-
-#EXTINF:-1, 13:00 | Football | Montpellier –  AS Monaco (option 2)
-acestream://8a72010856f27010d03b0e763f4a3d6f02842179
-
-#EXTINF:-1, 13:00 | Football | Montpellier –  AS Monaco (option 3)
-acestream://5323ccadb659f7d3cb5fa2e5835c5af362e144d6
-
-#EXTINF:-1, 13:00 | Ice Hockey | Avangard –  Kunlun RS (option 0)
-acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-
-#EXTINF:-1, 13:00 | Ice Hockey | Avangard –  Kunlun RS (option 1)
-acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
-
 #EXTINF:-1, 13:00 | Racing | Cup of Russia "AKHMAT Race 2022" (option 0)
 acestream://7b4362cb04a3df40bdfa3800af0cc78309a60771
 
@@ -593,14 +554,11 @@ acestream://594582770e65cba15978943da0e554a853b5c7fc
 #EXTINF:-1, 14:00 | Football | Kryvbas –  Minai (option 3)
 acestream://0528a1cecd81efd3ec72f49bd32fa847bc924abf
 
-#EXTINF:-1, 14:00 | Cycling | Tour de Romandie (option 0)
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1, 14:00 | Combat Sport | 2022 World Championships (option 0)
+acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
 
 #EXTINF:-1, 14:00 | Rugby Union | Strela –  Metallurg Nk (option 0)
 acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
-
-#EXTINF:-1, 14:00 | Combat Sport | 2022 World Championships (option 0)
-acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
 
 #EXTINF:-1, 14:00 | Premi̇er League Spartak Moskva Vs Krylya Sovetov (option 0)
 acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1
@@ -704,20 +662,8 @@ acestream://5323ccadb659f7d3cb5fa2e5835c5af362e144d6
 #EXTINF:-1, 15:00 | Football | Clermont –  Auxerre (option 0)
 acestream://7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
 
-#EXTINF:-1, 15:00 | Football | Udinese –  Atalanta (option 0)
-acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab
-
-#EXTINF:-1, 15:00 | Football | Udinese –  Atalanta (option 1)
-acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
-
-#EXTINF:-1, 15:00 | Football | Udinese –  Atalanta (option 2)
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-
-#EXTINF:-1, 15:00 | Football | Udinese –  Atalanta (option 3)
-acestream://7f16b81c8610c4804551d50405a88e2b4a6ef83a
-
-#EXTINF:-1, 15:00 | Football | Udinese –  Atalanta (option 4)
-acestream://9da4a4b62c152a43a70cafaf9e0a12804d9fa045
+#EXTINF:-1, 15:00 | Football | Nice –  Troyes (option 0)
+acestream://77697d1e2f382196dd156ed384e84c62fc7d32f7
 
 #EXTINF:-1, 15:00 | Football | West Ham United –  Fulham (option 0)
 acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
@@ -743,6 +689,21 @@ acestream://c297b6d128364c72eb0b53115b9e2cd03011cb1a
 #EXTINF:-1, 15:00 | Football | West Ham United –  Fulham (option 7)
 acestream://c9354414ae22fb6d21658d87aba4738bf21a6e72
 
+#EXTINF:-1, 15:00 | Football | Udinese –  Atalanta (option 0)
+acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab
+
+#EXTINF:-1, 15:00 | Football | Udinese –  Atalanta (option 1)
+acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
+
+#EXTINF:-1, 15:00 | Football | Udinese –  Atalanta (option 2)
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+
+#EXTINF:-1, 15:00 | Football | Udinese –  Atalanta (option 3)
+acestream://7f16b81c8610c4804551d50405a88e2b4a6ef83a
+
+#EXTINF:-1, 15:00 | Football | Udinese –  Atalanta (option 4)
+acestream://9da4a4b62c152a43a70cafaf9e0a12804d9fa045
+
 #EXTINF:-1, 15:00 | Football | Salernitana –  Hellas Verona (option 0)
 acestream://80c4a18a7ef2675d9f1b709889bfdb6f2ac026da
 
@@ -760,9 +721,6 @@ acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 
 #EXTINF:-1, 15:00 | Football | Salernitana –  Hellas Verona (option 5)
 acestream://331564b5c3119180e9ed198fb1f7b73a510193c6
-
-#EXTINF:-1, 15:00 | Football | Nice –  Troyes (option 0)
-acestream://77697d1e2f382196dd156ed384e84c62fc7d32f7
 
 #EXTINF:-1, 15:00 | Ice Hockey | Mora –  Oestersund (option 0)
 acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
@@ -854,38 +812,38 @@ acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
 #EXTINF:-1, 15:30 | New York Giants - Green Bay Packers (option 1)
 acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
 
-#EXTINF:-1, 15:30 | Football | Orenburg –  Akhmat (option 0)
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-
-#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 0)
-acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1
-
-#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 1)
-acestream://904171be222a00f513debf23fbc8da283112eb97
-
-#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 2)
-acestream://f254bb19c9f01052c2b7f364860c553820d7fbf9
-
-#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 3)
-acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-
-#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 4)
-acestream://65d49691687add6a93692a757817bac4f204ed1f
-
-#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 5)
-acestream://70b635b202b7739508e45f0b6a362e0accfeda94
-
-#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 6)
-acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
-
 #EXTINF:-1, 15:30 | Football | Moenchengladbach –  Cologne (option 0)
-acestream://8a72010856f27010d03b0e763f4a3d6f02842179
+acestream://780d7705e15c6695ced40cd5d5a692752523dd21
 
 #EXTINF:-1, 15:30 | Football | Moenchengladbach –  Cologne (option 1)
-acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+acestream://8a72010856f27010d03b0e763f4a3d6f02842179
 
 #EXTINF:-1, 15:30 | Football | Moenchengladbach –  Cologne (option 2)
-acestream://780d7705e15c6695ced40cd5d5a692752523dd21
+acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
+#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 0)
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+
+#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 1)
+acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1
+
+#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 2)
+acestream://904171be222a00f513debf23fbc8da283112eb97
+
+#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 3)
+acestream://f254bb19c9f01052c2b7f364860c553820d7fbf9
+
+#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 4)
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+
+#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 5)
+acestream://65d49691687add6a93692a757817bac4f204ed1f
+
+#EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 6)
+acestream://70b635b202b7739508e45f0b6a362e0accfeda94
+
+#EXTINF:-1, 15:30 | Football | Orenburg –  Akhmat (option 0)
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
 #EXTINF:-1, 15:30 | Soccer | Russian Premier League | Cska-dynamo (option 0)
 acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1
@@ -937,6 +895,12 @@ acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 16:00 | Wasps - Northampton Saints (option 0)
 acestream://85bd65161dfd8c4033194da3c978c0450c9111db
+
+#EXTINF:-1, 16:00 | Ice Hockey | Torpedo NN –  Dinamo Mn (option 0)
+acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+
+#EXTINF:-1, 16:00 | Ice Hockey | Vityaz –  Spartak M (option 0)
+acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
 
 #EXTINF:-1, 16:00 | Premi̇er League Crystal Palace Vs Leeds Uni̇ted (option 0)
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
