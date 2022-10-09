@@ -335,9 +335,6 @@ acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
 #EXTINF:-1, 12:30 | Tennis | Atp World Tour 500 | Astana [final] (option 1)
 acestream://e40b29774fdfd953751a71f5695f647726623b9d
 
-#EXTINF:-1, 13:00 | Racing | Cup of Russia "AKHMAT Race 2022" (option 0)
-acestream://7b4362cb04a3df40bdfa3800af0cc78309a60771
-
 #EXTINF:-1, 13:00 | Hockey | Russian Khl | Amur-lokomotiv (option 0)
 acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
 
@@ -755,9 +752,6 @@ acestream://85bd65161dfd8c4033194da3c978c0450c9111db
 #EXTINF:-1, 16:00 | Ice Hockey | Vityaz –  Spartak M (option 0)
 acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
 
-#EXTINF:-1, 16:00 | Ice Hockey | Torpedo NN –  Dinamo Mn (option 0)
-acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-
 #EXTINF:-1, 16:00 | Premi̇er League Crystal Palace Vs Leeds Uni̇ted (option 0)
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
@@ -1106,6 +1100,12 @@ acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1, 17:30 | Arsenal - Liverpool (option 5)
 acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 
+#EXTINF:-1, 17:30 | Football | Hertha Berlin –  Freiburg (option 0)
+acestream://0528a1cecd81efd3ec72f49bd32fa847bc924abf
+
+#EXTINF:-1, 17:30 | Football | Hertha Berlin –  Freiburg (option 1)
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+
 #EXTINF:-1, 17:30 | Football | Arsenal –  Liverpool (option 0)
 acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 
@@ -1116,22 +1116,16 @@ acestream://60a854ea4080f88838080f9e12d7d209c3938f2b
 acestream://97333bde8ad208b1eff824af2cb632c3493e8501
 
 #EXTINF:-1, 17:30 | Football | Arsenal –  Liverpool (option 3)
-acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
-
-#EXTINF:-1, 17:30 | Football | Arsenal –  Liverpool (option 4)
 acestream://78637dab85e7948057165ad0c80b3db475dd9c3d
 
-#EXTINF:-1, 17:30 | Football | Arsenal –  Liverpool (option 5)
-acestream://c297b6d128364c72eb0b53115b9e2cd03011cb1a
+#EXTINF:-1, 17:30 | Football | Arsenal –  Liverpool (option 4)
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
 
-#EXTINF:-1, 17:30 | Football | Arsenal –  Liverpool (option 6)
+#EXTINF:-1, 17:30 | Football | Arsenal –  Liverpool (option 5)
 acestream://c9354414ae22fb6d21658d87aba4738bf21a6e72
 
-#EXTINF:-1, 17:30 | Football | Hertha Berlin –  Freiburg (option 0)
-acestream://b6baa046075d82da300fc1b16de96067a8b9540e
-
-#EXTINF:-1, 17:30 | Football | Hertha Berlin –  Freiburg (option 1)
-acestream://0528a1cecd81efd3ec72f49bd32fa847bc924abf
+#EXTINF:-1, 17:30 | Football | Arsenal –  Liverpool (option 6)
+acestream://c297b6d128364c72eb0b53115b9e2cd03011cb1a
 
 #EXTINF:-1, 17:30 | Pri̇mei̇ra Li̇ga Boavi̇sta Vs Mariti̇mo (option 0)
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
@@ -1185,10 +1179,10 @@ acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab
 
 #EXTINF:-1, 18:00 | Football | Cremonese –  Napoli (option 1)
-acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 
 #EXTINF:-1, 18:00 | Football | Cremonese –  Napoli (option 2)
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
 
 #EXTINF:-1, 18:00 | Football | Cremonese –  Napoli (option 3)
 acestream://7f16b81c8610c4804551d50405a88e2b4a6ef83a
@@ -1401,25 +1395,25 @@ acestream://65571fcd215f800b7583cb1039c8ab4d6aa1d8f2
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 
 #EXTINF:-1, 18:30 | Football | Real Sociedad –  Villarreal (option 0)
-acestream://825168bd7c43f09a73f9c499799dbc88ed0408cc
+acestream://780d7705e15c6695ced40cd5d5a692752523dd21
 
 #EXTINF:-1, 18:30 | Football | Real Sociedad –  Villarreal (option 1)
-acestream://8a70a086361d20f411447de358ceb0affb01a88c
+acestream://825168bd7c43f09a73f9c499799dbc88ed0408cc
 
 #EXTINF:-1, 18:30 | Football | Real Sociedad –  Villarreal (option 2)
-acestream://8a72010856f27010d03b0e763f4a3d6f02842179
+acestream://8a70a086361d20f411447de358ceb0affb01a88c
 
 #EXTINF:-1, 18:30 | Football | Real Sociedad –  Villarreal (option 3)
-acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+acestream://8a72010856f27010d03b0e763f4a3d6f02842179
 
 #EXTINF:-1, 18:30 | Football | Real Sociedad –  Villarreal (option 4)
-acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
 #EXTINF:-1, 18:30 | Football | Real Sociedad –  Villarreal (option 5)
-acestream://de2960baaa85cd7321d5474ce2d8ec66e15f6b82
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
 
 #EXTINF:-1, 18:30 | Football | Real Sociedad –  Villarreal (option 6)
-acestream://780d7705e15c6695ced40cd5d5a692752523dd21
+acestream://de2960baaa85cd7321d5474ce2d8ec66e15f6b82
 
 #EXTINF:-1, 18:30 | Premi̇er League Arsenal Vs Li̇verpool (option 0)
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
@@ -1577,6 +1571,9 @@ acestream://85bd65161dfd8c4033194da3c978c0450c9111db
 #EXTINF:-1, 19:00 | Tennessee Titans - Washington Commanders (option 0)
 acestream://85bd65161dfd8c4033194da3c978c0450c9111db
 
+#EXTINF:-1, 19:00 | Football | Fenerbahce –  Fatih Karagumruk (option 0)
+acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+
 #EXTINF:-1, 19:00 | Seri̇e A Cremonese Vs Napoli̇ (option 0)
 acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 
@@ -1693,6 +1690,15 @@ acestream://91dce080463a5c6ee931fc5489a75ab54a5cb071
 
 #EXTINF:-1, 19:30 | Stuttgart - Union Berlin (option 5)
 acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
+
+#EXTINF:-1, 19:30 | Football | Stuttgart –  Union Berlin (option 0)
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+
+#EXTINF:-1, 19:30 | Football | Stuttgart –  Union Berlin (option 1)
+acestream://0528a1cecd81efd3ec72f49bd32fa847bc924abf
+
+#EXTINF:-1, 19:30 | Cycling | World Cup 2022 (option 0)
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 #EXTINF:-1, 19:30 | La Li̇ga Real Soci̇edad Vs Vi̇llarreal (option 0)
 acestream://01b333b9369c662775902638ef8cffac346a0f61
