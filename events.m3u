@@ -371,9 +371,6 @@ acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11
 #EXTINF:-1, 13:30 | Jornada 4 Club De Campo Villa De Madrid (option 0)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
-#EXTINF:-1, 13:30 | Football | Heidenheim –  Hanover 96 (option 0)
-acestream://b6baa046075d82da300fc1b16de96067a8b9540e
-
 #EXTINF:-1, 13:30 | Seri̇e A Tori̇no Vs Empoli̇ (option 0)
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 
@@ -554,12 +551,6 @@ acestream://594582770e65cba15978943da0e554a853b5c7fc
 #EXTINF:-1, 14:00 | Football | Kryvbas –  Minai (option 3)
 acestream://0528a1cecd81efd3ec72f49bd32fa847bc924abf
 
-#EXTINF:-1, 14:00 | Combat Sport | 2022 World Championships (option 0)
-acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
-
-#EXTINF:-1, 14:00 | Rugby Union | Strela –  Metallurg Nk (option 0)
-acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
-
 #EXTINF:-1, 14:00 | Premi̇er League Spartak Moskva Vs Krylya Sovetov (option 0)
 acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1
 
@@ -656,11 +647,11 @@ acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1, 15:00 | Crystal Palace - Leeds Utd (option 5)
 acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 
-#EXTINF:-1, 15:00 | Football | Angers –  Strasbourg (option 0)
-acestream://5323ccadb659f7d3cb5fa2e5835c5af362e144d6
-
 #EXTINF:-1, 15:00 | Football | Clermont –  Auxerre (option 0)
 acestream://7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
+
+#EXTINF:-1, 15:00 | Football | Angers –  Strasbourg (option 0)
+acestream://5323ccadb659f7d3cb5fa2e5835c5af362e144d6
 
 #EXTINF:-1, 15:00 | Football | Nice –  Troyes (option 0)
 acestream://77697d1e2f382196dd156ed384e84c62fc7d32f7
@@ -821,6 +812,9 @@ acestream://8a72010856f27010d03b0e763f4a3d6f02842179
 #EXTINF:-1, 15:30 | Football | Moenchengladbach –  Cologne (option 2)
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
+#EXTINF:-1, 15:30 | Football | Orenburg –  Akhmat (option 0)
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+
 #EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 0)
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 
@@ -841,9 +835,6 @@ acestream://65d49691687add6a93692a757817bac4f204ed1f
 
 #EXTINF:-1, 15:30 | Football | Torpedo M –  Nizhnyi Novgorod (option 6)
 acestream://70b635b202b7739508e45f0b6a362e0accfeda94
-
-#EXTINF:-1, 15:30 | Football | Orenburg –  Akhmat (option 0)
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
 #EXTINF:-1, 15:30 | Soccer | Russian Premier League | Cska-dynamo (option 0)
 acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1
@@ -1139,6 +1130,9 @@ acestream://c649cf6ff1a5b1793c0819d3dc68dbb2e9082fe3
 #EXTINF:-1, 16:15 | Soccer | Spanish League 2 | Ponferradina-granada (option 3)
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 
+#EXTINF:-1, 16:30 | Volleyball |  Dinamo M (W) –   Lokomotiv K (W) (option 0)
+acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+
 #EXTINF:-1, 16:30 | Premi̇er League Torpedo Moskva Vs Ni̇zhny Novgorod (option 0)
 acestream://56874272f8a5dad8799154ca5231ac41bf2a40e1
 
@@ -1171,6 +1165,9 @@ acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
 
 #EXTINF:-1, 16:30 | Soccer | Portuguese League | Boavista-maritimo (option 0)
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
+
+#EXTINF:-1, 16:45 | Football | Heerenveen –  PSV (option 0)
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
 
 #EXTINF:-1, 17:00 | Bilbao Basket - Valencia Basket (option 0)
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
