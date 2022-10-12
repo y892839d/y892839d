@@ -449,9 +449,6 @@ acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1, 18:00 | Bc Prometey - Lietkabelis Panevezys (option 5)
 acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 
-#EXTINF:-1, 18:00 | Cycling | World Championships (option 0)
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-
 #EXTINF:-1, 18:00 | Basketball | Eurocup | Podgorica-towers Hamburg (option 0)
 acestream://84af46abab9de02bdd22818747738cfa5438132e
 
@@ -564,12 +561,9 @@ acestream://b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
 acestream://6f29350d83ab43eccebaecb6cf2daa887aec9cf6
 
 #EXTINF:-1, 18:45 | At. Madrid - Club Brugge (option 6)
-acestream://b5c49e8f1bb36964b309b49476b4891b47b94055
-
-#EXTINF:-1, 18:45 | At. Madrid - Club Brugge (option 7)
 acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 
-#EXTINF:-1, 18:45 | At. Madrid - Club Brugge (option 8)
+#EXTINF:-1, 18:45 | At. Madrid - Club Brugge (option 7)
 acestream://172a0843a8f136659ab139af2d247bcfac602d05
 
 #EXTINF:-1, 18:45 | Napoli - Ajax (option 0)
@@ -788,12 +782,6 @@ acestream://e1e5e6afd93ef6a9beb9e38be2d2f7523f3a6295
 #EXTINF:-1, 19:30 | Basketball | Eurocup | Mincidelice-napoca (option 0)
 acestream://f2b785193cfa99c581287be39e2fb5a73827957b
 
-#EXTINF:-1, 19:45 | Ice Hockey | Fribourg –  Salzburg (option 0)
-acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974
-
-#EXTINF:-1, 19:45 | Ice Hockey | Fribourg –  Salzburg (option 1)
-acestream://9e7fe279f421b734a8af9e68320955fd16f80b4b
-
 #EXTINF:-1, 20:00 | Dolomiti Energia Trento - Promitheas Patras Bc (option 0)
 acestream://3634ae8e7443f637222e0255f0fc70bf3f050e64
 
@@ -912,27 +900,24 @@ acestream://b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
 acestream://6f29350d83ab43eccebaecb6cf2daa887aec9cf6
 
 #EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 6)
-acestream://b5c49e8f1bb36964b309b49476b4891b47b94055
-
-#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 7)
 acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 
-#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 8)
+#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 7)
 acestream://172a0843a8f136659ab139af2d247bcfac602d05
 
-#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 9)
+#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 8)
 acestream://2320cccef777b0d78bdf34f644a925e9d0dd530a
 
-#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 10)
+#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 9)
 acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
 
-#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 11)
+#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 10)
 acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
 
-#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 12)
+#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 11)
 acestream://f2b785193cfa99c581287be39e2fb5a73827957b
 
-#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 13)
+#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 12)
 acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 0)
@@ -951,13 +936,13 @@ acestream://f2b785193cfa99c581287be39e2fb5a73827957b
 acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 5)
-acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
-
-#EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 6)
 acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
 
-#EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 7)
+#EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 6)
 acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94
+
+#EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 7)
+acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 8)
 acestream://297fab10d7364ca1991fa43fcff469573688ce7a
@@ -1100,35 +1085,29 @@ acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1, 21:00 | Cb Gran Canaria - Wks Slask Wroclaw (option 5)
 acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 
-#EXTINF:-1, 21:00 | Football | Racing –  Real Zaragoza (option 0)
-acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 0)
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 
-#EXTINF:-1, 21:00 | Football | Racing –  Real Zaragoza (option 1)
-acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
+#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 1)
+acestream://331564b5c3119180e9ed198fb1f7b73a510193c6
 
-#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 0)
-acestream://3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 2)
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
-#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 1)
-acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
+#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 3)
+acestream://80c4a18a7ef2675d9f1b709889bfdb6f2ac026da
 
-#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 2)
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 4)
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
 
-#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 3)
-acestream://7f16b81c8610c4804551d50405a88e2b4a6ef83a
+#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 5)
+acestream://90bfa1e8cda0fe21afa844671d4ca6d1e76d74c6
 
-#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 4)
-acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 6)
+acestream://af03486f81f5cc38541348a9c04deda35e5ba41b
 
-#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 5)
-acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
-
-#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 6)
-acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab
-
-#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 7)
-acestream://9da4a4b62c152a43a70cafaf9e0a12804d9fa045
+#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 7)
+acestream://c7a8069a0c397ecabf308d985a28c680c1425bd2
 
 #EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 0)
 acestream://52c7f0344c3ef6da2e08b42e038484685d17a533
@@ -1154,6 +1133,39 @@ acestream://75b55ad98da790505f08bb7dc4050c83cf99c1f0
 #EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 7)
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 
+#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 0)
+acestream://3147c586346aee00c005d1caa55204d38678c95f
+
+#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 1)
+acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
+
+#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 2)
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+
+#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 3)
+acestream://7f16b81c8610c4804551d50405a88e2b4a6ef83a
+
+#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 4)
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+
+#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 5)
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+
+#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 6)
+acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab
+
+#EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 7)
+acestream://9da4a4b62c152a43a70cafaf9e0a12804d9fa045
+
+#EXTINF:-1, 21:00 | Football | Simulcast (option 0)
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+
+#EXTINF:-1, 21:00 | Football | Simulcast (option 1)
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+
+#EXTINF:-1, 21:00 | Football | Simulcast (option 2)
+acestream://f254bb19c9f01052c2b7f364860c553820d7fbf9
+
 #EXTINF:-1, 21:00 | Football | Viktoria Plzen –  Bayern Munich (option 0)
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 
@@ -1178,30 +1190,6 @@ acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
 #EXTINF:-1, 21:00 | Football | Viktoria Plzen –  Bayern Munich (option 7)
 acestream://e37b2a23b3484d9533035a60f08453acdc69599c
 
-#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 0)
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-
-#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 1)
-acestream://331564b5c3119180e9ed198fb1f7b73a510193c6
-
-#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 2)
-acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-
-#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 3)
-acestream://80c4a18a7ef2675d9f1b709889bfdb6f2ac026da
-
-#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 4)
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
-
-#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 5)
-acestream://90bfa1e8cda0fe21afa844671d4ca6d1e76d74c6
-
-#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 6)
-acestream://af03486f81f5cc38541348a9c04deda35e5ba41b
-
-#EXTINF:-1, 21:00 | Football | Tottenham –  Eintracht (option 7)
-acestream://c7a8069a0c397ecabf308d985a28c680c1425bd2
-
 #EXTINF:-1, 21:00 | Football | Sporting –  Marseille (option 0)
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 
@@ -1220,14 +1208,11 @@ acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
 #EXTINF:-1, 21:00 | Football | Leverkusen –  Porto (option 4)
 acestream://b22832dd1552b1102e582c9f4e2e21ffea1be6e6
 
-#EXTINF:-1, 21:00 | Football | Simulcast (option 0)
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1, 21:00 | Football | Racing –  Real Zaragoza (option 0)
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 
-#EXTINF:-1, 21:00 | Football | Simulcast (option 1)
-acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-
-#EXTINF:-1, 21:00 | Football | Simulcast (option 2)
-acestream://f254bb19c9f01052c2b7f364860c553820d7fbf9
+#EXTINF:-1, 21:00 | Football | Racing –  Real Zaragoza (option 1)
+acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
 
 #EXTINF:-1, 21:00 | Basketball | Gran Canaria –  Slask Wroclaw (option 0)
 acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
