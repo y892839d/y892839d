@@ -122,12 +122,6 @@ acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 #EXTINF:-1, 13:00 | Golf | Dp World Tour | Estrella Damm Andalucia Masters-stage 2 (option 2)
 acestream://cb57de633925bc75a2c55c138d8b0ae20d074a92
 
-#EXTINF:-1, 13:30 | Ice Hockey | Sibirskie Snaypery –  Tolpar (option 0)
-acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-
-#EXTINF:-1, 13:30 | Ice Hockey | Sibirskie Snaypery –  Tolpar (option 1)
-acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
-
 #EXTINF:-1, 14:00 | Napoli Academy - Ajax Academy (option 0)
 acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3
 
@@ -181,18 +175,6 @@ acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 
 #EXTINF:-1, 14:00 | Villarreal B - Ponferradina (option 11)
 acestream://01b333b9369c662775902638ef8cffac346a0f61
-
-#EXTINF:-1, 14:00 | Football |  Tottenham U-19 –   Eintracht U-19 (option 0)
-acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-
-#EXTINF:-1, 14:00 | Football |  Napoli U-19 –   Ajax U-19 (option 0)
-acestream://0f32c0131a2d9444996410801f4e18b04384db98
-
-#EXTINF:-1, 14:00 | Football |  Napoli U-19 –   Ajax U-19 (option 1)
-acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-
-#EXTINF:-1, 14:00 | Football |  Atletico Madrid U-19 –   Brugge U-19 (option 0)
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 
 #EXTINF:-1, 14:00 | Segunda Di̇vi̇si̇on Vi̇llarreal Ii Vs Ponferradi̇na (option 0)
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
@@ -283,9 +265,6 @@ acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
 
 #EXTINF:-1, 14:30 | Uci Europe Tour Padova › Vicenza (159,8 Km) (option 3)
 acestream://1e9b308c6b825203646420893f9b23a3542c01f4
-
-#EXTINF:-1, 14:30 | Cycling | Veneto tour (option 0)
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 #EXTINF:-1, 15:15 | Tennis | Atp Challenger Tour | Gijon Open-round 6 (option 0)
 acestream://cb57de633925bc75a2c55c138d8b0ae20d074a92
@@ -490,6 +469,12 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
 #EXTINF:-1, 16:30 | Tennis | Atp Challenger Tour | Gijon Open-round 7 (option 3)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
+
+#EXTINF:-1, 17:00 | Basketball | Samara –  Yenisey (option 0)
+acestream://4b129146077c1e357e4ab341448b9fb629f939dc
+
+#EXTINF:-1, 17:00 | Futsal | Viten –  VRZ (option 0)
+acestream://825168bd7c43f09a73f9c499799dbc88ed0408cc
 
 #EXTINF:-1, 18:00 | Falco Szombathely - Ucam Murcia Cb (option 0)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
