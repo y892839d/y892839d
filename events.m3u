@@ -314,21 +314,6 @@ acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
 #EXTINF:-1, 16:00 | S. Korda - J. Munar (option 0)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
-#EXTINF:-1, 16:00 | Football |  Rangers U-19 –   Liverpool U-19 (option 0)
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-
-#EXTINF:-1, 16:00 | Football |  Rangers U-19 –   Liverpool U-19 (option 1)
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-
-#EXTINF:-1, 16:00 | Ice Hockey | Metallurg Mg –  Ak Bars (option 0)
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-
-#EXTINF:-1, 16:00 | Ice Hockey | Metallurg Mg –  Ak Bars (option 1)
-acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-
-#EXTINF:-1, 16:00 | Ice Hockey | Metallurg Mg –  Ak Bars (option 2)
-acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
-
 #EXTINF:-1, 16:00 | Uefa Youth League Rangers U19 Vs Li̇verpool U19 (option 0)
 acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
 
@@ -656,6 +641,27 @@ acestream://f2b785193cfa99c581287be39e2fb5a73827957b
 #EXTINF:-1, 18:45 | Napoli - Ajax (option 4)
 acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 0)
+acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 1)
+acestream://7f16b81c8610c4804551d50405a88e2b4a6ef83a
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 2)
+acestream://3147c586346aee00c005d1caa55204d38678c95f
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 3)
+acestream://8dd0e49065b454748f67ea42b8b026e00c24b3b0
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 4)
+acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 5)
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 6)
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+
 #EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 0)
 acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
 
@@ -697,42 +703,6 @@ acestream://af03486f81f5cc38541348a9c04deda35e5ba41b
 
 #EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 13)
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-
-#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 14)
-acestream://c7a8069a0c397ecabf308d985a28c680c1425bd2
-
-#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 15)
-acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-
-#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 0)
-acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
-
-#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 1)
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-
-#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 2)
-acestream://7f16b81c8610c4804551d50405a88e2b4a6ef83a
-
-#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 3)
-acestream://3147c586346aee00c005d1caa55204d38678c95f
-
-#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 4)
-acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-
-#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 5)
-acestream://8dd0e49065b454748f67ea42b8b026e00c24b3b0
-
-#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 6)
-acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab
-
-#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 7)
-acestream://9da4a4b62c152a43a70cafaf9e0a12804d9fa045
-
-#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 8)
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-
-#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 9)
-acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 
 #EXTINF:-1, 18:45 | Uefa Champi̇ons League Atleti̇co Madri̇d Vs Club Brugge (option 0)
 acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
@@ -1210,6 +1180,12 @@ acestream://65571fcd215f800b7583cb1039c8ab4d6aa1d8f2
 
 #EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 16)
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
+
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 17)
+acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 18)
+acestream://01b333b9369c662775902638ef8cffac346a0f61
 
 #EXTINF:-1, 21:00 | Dinamarca - España (option 0)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
