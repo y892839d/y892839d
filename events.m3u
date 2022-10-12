@@ -320,9 +320,6 @@ acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1, 16:00 | Football |  Rangers U-19 –   Liverpool U-19 (option 1)
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 
-#EXTINF:-1, 16:00 | Football | Steaua Bucharest –  Unirea Constanta (option 0)
-acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
-
 #EXTINF:-1, 16:00 | Ice Hockey | Metallurg Mg –  Ak Bars (option 0)
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
@@ -476,11 +473,11 @@ acestream://4b129146077c1e357e4ab341448b9fb629f939dc
 #EXTINF:-1, 17:00 | Futsal | Viten –  VRZ (option 0)
 acestream://825168bd7c43f09a73f9c499799dbc88ed0408cc
 
-#EXTINF:-1, 17:30 | Ice Hockey | Lukko –  KooKoo (option 0)
-acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
-
 #EXTINF:-1, 17:30 | Ice Hockey | Mountfield –  Eisbaeren Berlin (option 0)
 acestream://1950633a3723cb52b17c764125decc04445bd5ff
+
+#EXTINF:-1, 17:30 | Ice Hockey | Lukko –  KooKoo (option 0)
+acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
 
 #EXTINF:-1, 18:00 | Falco Szombathely - Ucam Murcia Cb (option 0)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
@@ -584,6 +581,12 @@ acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 #EXTINF:-1, 18:30 | Alaves - Albacete (option 4)
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 
+#EXTINF:-1, 18:30 | Ice Hockey | Dynamo Msk –  Severstal (option 0)
+acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+
+#EXTINF:-1, 18:30 | Ice Hockey | Dynamo Msk –  Severstal (option 1)
+acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
+
 #EXTINF:-1, 18:30 | Segunda Di̇vi̇si̇on Deporti̇vo Alaves Vs Albacete (option 0)
 acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
 
@@ -652,6 +655,84 @@ acestream://f2b785193cfa99c581287be39e2fb5a73827957b
 
 #EXTINF:-1, 18:45 | Napoli - Ajax (option 4)
 acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 0)
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 1)
+acestream://bb8315bd1fe7d281b411ccb1a92423d45e5b3a0f
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 2)
+acestream://52c7f0344c3ef6da2e08b42e038484685d17a533
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 3)
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 4)
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 5)
+acestream://331564b5c3119180e9ed198fb1f7b73a510193c6
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 6)
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 7)
+acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 8)
+acestream://75b55ad98da790505f08bb7dc4050c83cf99c1f0
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 9)
+acestream://80c4a18a7ef2675d9f1b709889bfdb6f2ac026da
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 10)
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 11)
+acestream://90bfa1e8cda0fe21afa844671d4ca6d1e76d74c6
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 12)
+acestream://af03486f81f5cc38541348a9c04deda35e5ba41b
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 13)
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 14)
+acestream://c7a8069a0c397ecabf308d985a28c680c1425bd2
+
+#EXTINF:-1, 18:45 | Football | Napoli –  Ajax (option 15)
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 0)
+acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 1)
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 2)
+acestream://7f16b81c8610c4804551d50405a88e2b4a6ef83a
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 3)
+acestream://3147c586346aee00c005d1caa55204d38678c95f
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 4)
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 5)
+acestream://8dd0e49065b454748f67ea42b8b026e00c24b3b0
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 6)
+acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 7)
+acestream://9da4a4b62c152a43a70cafaf9e0a12804d9fa045
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 8)
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+
+#EXTINF:-1, 18:45 | Football | Atletico Madrid –  Brugge (option 9)
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 
 #EXTINF:-1, 18:45 | Uefa Champi̇ons League Atleti̇co Madri̇d Vs Club Brugge (option 0)
 acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
@@ -1002,13 +1083,13 @@ acestream://f2b785193cfa99c581287be39e2fb5a73827957b
 acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 5)
-acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
+acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 6)
-acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94
+acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 7)
-acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
+acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 8)
 acestream://297fab10d7364ca1991fa43fcff469573688ce7a
