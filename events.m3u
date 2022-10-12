@@ -80,9 +80,6 @@ acestream://40da37534656efcc6179c1b7693335d5e8212e43
 #EXTINF:-1, 09:15 | Etapa 2 Kuala Klawang › Raub (170 Km) (option 2)
 acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
 
-#EXTINF:-1, 09:15 | Etapa 2 Kuala Klawang › Raub (170 Km) (option 3)
-acestream://1e9b308c6b825203646420893f9b23a3542c01f4
-
 #EXTINF:-1, 11:00 | Tennis | Atp World Tour 250 | Fiorencia Open (option 0)
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 
@@ -90,9 +87,6 @@ acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 12:00 | Fc Barcelona Academy - Cd Tortosa (option 0)
-acestream://d88dc1b45a5e1dee65680b852a6944c467881293
-
-#EXTINF:-1, 12:00 | Fc Barcelona Academy - Cd Tortosa (option 1)
 acestream://65c141632af256d70da66c767ba74360042b4396
 
 #EXTINF:-1, 12:00 | Tennis | Atp Challenger Tour | Gijon Open-round 5 (option 0)
@@ -253,9 +247,6 @@ acestream://40da37534656efcc6179c1b7693335d5e8212e43
 
 #EXTINF:-1, 14:30 | Uci Europe Tour Padova › Vicenza (159,8 Km) (option 2)
 acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
-
-#EXTINF:-1, 14:30 | Uci Europe Tour Padova › Vicenza (159,8 Km) (option 3)
-acestream://1e9b308c6b825203646420893f9b23a3542c01f4
 
 #EXTINF:-1, 15:15 | Tennis | Atp Challenger Tour | Gijon Open-round 6 (option 0)
 acestream://cb57de633925bc75a2c55c138d8b0ae20d074a92
@@ -1116,10 +1107,10 @@ acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56
 
 #EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 0)
-acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
+acestream://3147c586346aee00c005d1caa55204d38678c95f
 
 #EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 1)
-acestream://3147c586346aee00c005d1caa55204d38678c95f
+acestream://b18ca93f3c10bed6e37ffe5719245fab319fce72
 
 #EXTINF:-1, 21:00 | Football | Rangers –  Liverpool (option 2)
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
@@ -1140,19 +1131,19 @@ acestream://9246b82fdb20115b6d8857cacaf1de3fab43caab
 acestream://9da4a4b62c152a43a70cafaf9e0a12804d9fa045
 
 #EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 0)
-acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
-
-#EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 1)
 acestream://52c7f0344c3ef6da2e08b42e038484685d17a533
 
-#EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 2)
+#EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 1)
 acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
 
-#EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 3)
+#EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 2)
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
-#EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 4)
+#EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 3)
 acestream://bb8315bd1fe7d281b411ccb1a92423d45e5b3a0f
+
+#EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 4)
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
 
 #EXTINF:-1, 21:00 | Football | Barcelona –  Inter (option 5)
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
@@ -1167,16 +1158,16 @@ acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 
 #EXTINF:-1, 21:00 | Football | Viktoria Plzen –  Bayern Munich (option 1)
-acestream://01bbc24f36abaf8ed8ef5acddafe8596416403e8
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 #EXTINF:-1, 21:00 | Football | Viktoria Plzen –  Bayern Munich (option 2)
-acestream://18dc2b7f5fc768da4a9920a910fce73dc340ff7c
+acestream://01bbc24f36abaf8ed8ef5acddafe8596416403e8
 
 #EXTINF:-1, 21:00 | Football | Viktoria Plzen –  Bayern Munich (option 3)
-acestream://3b6189e81b1bfa37c61918765f881937fafd5361
+acestream://18dc2b7f5fc768da4a9920a910fce73dc340ff7c
 
 #EXTINF:-1, 21:00 | Football | Viktoria Plzen –  Bayern Munich (option 4)
-acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+acestream://3b6189e81b1bfa37c61918765f881937fafd5361
 
 #EXTINF:-1, 21:00 | Football | Viktoria Plzen –  Bayern Munich (option 5)
 acestream://abf4094f283874fbd6e06abb7f168551ad92d378
@@ -1600,6 +1591,9 @@ acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
 
 #EXTINF:-1, 21:30 | Soccer | Argentinian Superleague | Sarmiento-boca Juniors (option 0)
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
+
+#EXTINF:-1, 22:35 | Baseball | Atlanta –  Philadelphia (option 0)
+acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
 
 #EXTINF:-1, 23:00 | Mlb Atlanta Braves Vs Phi̇ladelphi̇a Phi̇lli̇es (option 0)
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
