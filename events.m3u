@@ -11,9 +11,6 @@ acestream://cb57de633925bc75a2c55c138d8b0ae20d074a92
 #EXTINF:-1, 01:00 | Football | Usa Nhl | Pittsburgh-arizona (option 1)
 acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 
-#EXTINF:-1, 01:30 | Hockey | Usa Nhl | Rangers-tampa Bay (option 0)
-acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
-
 #EXTINF:-1, 01:30 | Basketball | Usa Nba | Bucks-nets (option 0)
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 
@@ -34,12 +31,6 @@ acestream://c081d8103a2c35749015111ca9a63dc3ef0a0d29
 
 #EXTINF:-1, 02:30 | Copa Do Brasi̇l Cori̇nthi̇ans Vs Flamengo Rj (option 0)
 acestream://86543b0dbcd51979717d61c197d1525e643937ff
-
-#EXTINF:-1, 02:30 | Tennis | San Diego Open | Rybakina-muguruza (option 0)
-acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-
-#EXTINF:-1, 02:30 | Tennis | San Diego Open | Rybakina-muguruza (option 1)
-acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 02:30 | Soccer | Argentinian Superleague | River Plate-platense (option 0)
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
@@ -103,9 +94,6 @@ acestream://65c141632af256d70da66c767ba74360042b4396
 
 #EXTINF:-1, 12:00 | Football | Yokohama Marinos –  Jubilo Iwata (option 0)
 acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-
-#EXTINF:-1, 12:00 | Ice Hockey | SKA-Varyagi –  Dinamo Szynnik (option 0)
-acestream://825168bd7c43f09a73f9c499799dbc88ed0408cc
 
 #EXTINF:-1, 12:00 | Tennis | Atp Challenger Tour | Gijon Open-round 5 (option 0)
 acestream://cb57de633925bc75a2c55c138d8b0ae20d074a92
@@ -608,6 +596,9 @@ acestream://c649cf6ff1a5b1793c0819d3dc68dbb2e9082fe3
 #EXTINF:-1, 18:30 | Soccer | Spanish League 2 | Tenerife-cartagena (option 1)
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 
+#EXTINF:-1, 18:30 | Soccer | Spanish League 2 | Real Ovideo-huesca (option 0)
+acestream://cbf281d5e481697aa4184fe1de5e069928c95057
+
 #EXTINF:-1, 18:45 | At. Madrid - Club Brugge (option 0)
 acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
 
@@ -877,9 +868,6 @@ acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e
 
 #EXTINF:-1, 20:15 | Basketball | Euroleague | Olimpia Milan-alba Berlin (option 0)
 acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11
-
-#EXTINF:-1, 20:30 | 2a Ronda Wta 500 (option 0)
-acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 20:30 | Basketball | Euroleague | Baskonia-partizan (option 0)
 acestream://84af46abab9de02bdd22818747738cfa5438132e
