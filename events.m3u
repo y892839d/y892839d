@@ -80,9 +80,6 @@ acestream://40da37534656efcc6179c1b7693335d5e8212e43
 #EXTINF:-1, 09:15 | Etapa 2 Kuala Klawang › Raub (170 Km) (option 2)
 acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
 
-#EXTINF:-1, 09:15 | Etapa 2 Kuala Klawang › Raub (170 Km) (option 3)
-acestream://1e9b308c6b825203646420893f9b23a3542c01f4
-
 #EXTINF:-1, 11:00 | Tennis | Atp World Tour 250 | Fiorencia Open (option 0)
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 
@@ -93,9 +90,6 @@ acestream://8dd0e49065b454748f67ea42b8b026e00c24b3b0
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 12:00 | Fc Barcelona Academy - Cd Tortosa (option 0)
-acestream://d88dc1b45a5e1dee65680b852a6944c467881293
-
-#EXTINF:-1, 12:00 | Fc Barcelona Academy - Cd Tortosa (option 1)
 acestream://65c141632af256d70da66c767ba74360042b4396
 
 #EXTINF:-1, 12:00 | Tennis | Atp Challenger Tour | Gijon Open-round 5 (option 0)
@@ -262,9 +256,6 @@ acestream://40da37534656efcc6179c1b7693335d5e8212e43
 
 #EXTINF:-1, 14:30 | Uci Europe Tour Padova › Vicenza (159,8 Km) (option 2)
 acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
-
-#EXTINF:-1, 14:30 | Uci Europe Tour Padova › Vicenza (159,8 Km) (option 3)
-acestream://1e9b308c6b825203646420893f9b23a3542c01f4
 
 #EXTINF:-1, 15:15 | Tennis | Atp Challenger Tour | Gijon Open-round 6 (option 0)
 acestream://cb57de633925bc75a2c55c138d8b0ae20d074a92
@@ -454,9 +445,6 @@ acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 17:00 | Basketball | Samara –  Yenisey (option 0)
 acestream://4b129146077c1e357e4ab341448b9fb629f939dc
-
-#EXTINF:-1, 17:00 | Futsal | Viten –  VRZ (option 0)
-acestream://825168bd7c43f09a73f9c499799dbc88ed0408cc
 
 #EXTINF:-1, 17:30 | Ice Hockey | Mountfield –  Eisbaeren Berlin (option 0)
 acestream://1950633a3723cb52b17c764125decc04445bd5ff
@@ -875,6 +863,18 @@ acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
 #EXTINF:-1, 18:45 | Soccer | Uefa Europe League | Simulcast (option 0)
 acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
 
+#EXTINF:-1, 19:00 | Basketball | MBA –  Tsmoki Minsk (option 0)
+acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
+
+#EXTINF:-1, 19:00 | Basketball | MBA –  Tsmoki Minsk (option 1)
+acestream://825168bd7c43f09a73f9c499799dbc88ed0408cc
+
+#EXTINF:-1, 19:00 | Basketball | MBA –  Tsmoki Minsk (option 2)
+acestream://4b129146077c1e357e4ab341448b9fb629f939dc
+
+#EXTINF:-1, 19:00 | Basketball | MBA –  Tsmoki Minsk (option 3)
+acestream://7b4362cb04a3df40bdfa3800af0cc78309a60771
+
 #EXTINF:-1, 19:00 | Tennis | Atp Challenger Tour | Gijon Open-round 8 (option 0)
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
@@ -904,6 +904,12 @@ acestream://e1e5e6afd93ef6a9beb9e38be2d2f7523f3a6295
 
 #EXTINF:-1, 19:30 | Basketball | Eurocup | Mincidelice-napoca (option 0)
 acestream://f2b785193cfa99c581287be39e2fb5a73827957b
+
+#EXTINF:-1, 19:45 | Ice Hockey | Fribourg –  Salzburg (option 0)
+acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974
+
+#EXTINF:-1, 19:45 | Ice Hockey | Fribourg –  Salzburg (option 1)
+acestream://9e7fe279f421b734a8af9e68320955fd16f80b4b
 
 #EXTINF:-1, 20:00 | Dolomiti Energia Trento - Promitheas Patras Bc (option 0)
 acestream://3634ae8e7443f637222e0255f0fc70bf3f050e64
@@ -1053,13 +1059,13 @@ acestream://f2b785193cfa99c581287be39e2fb5a73827957b
 acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 5)
-acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
-
-#EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 6)
 acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
 
-#EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 7)
+#EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 6)
 acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94
+
+#EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 7)
+acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 8)
 acestream://297fab10d7364ca1991fa43fcff469573688ce7a
