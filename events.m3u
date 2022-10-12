@@ -83,9 +83,6 @@ acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
 #EXTINF:-1, 11:00 | Tennis | Atp World Tour 250 | Fiorencia Open (option 0)
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 
-#EXTINF:-1, 11:10 | Tennis | WTA. Cluj-Napoca (option 0)
-acestream://8dd0e49065b454748f67ea42b8b026e00c24b3b0
-
 #EXTINF:-1, 12:00 | Idk Euskotren - Ciudad De La Laguna Tenerife (option 0)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
@@ -156,18 +153,12 @@ acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 acestream://b4d0c55b2a918da310e521b363e1f038247a11b3
 
 #EXTINF:-1, 14:00 | Villarreal B - Ponferradina (option 7)
-acestream://5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
-
-#EXTINF:-1, 14:00 | Villarreal B - Ponferradina (option 8)
-acestream://172a0843a8f136659ab139af2d247bcfac602d05
-
-#EXTINF:-1, 14:00 | Villarreal B - Ponferradina (option 9)
 acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2
 
-#EXTINF:-1, 14:00 | Villarreal B - Ponferradina (option 10)
+#EXTINF:-1, 14:00 | Villarreal B - Ponferradina (option 8)
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 
-#EXTINF:-1, 14:00 | Villarreal B - Ponferradina (option 11)
+#EXTINF:-1, 14:00 | Villarreal B - Ponferradina (option 9)
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 
 #EXTINF:-1, 14:00 | Segunda Di̇vi̇si̇on Vi̇llarreal Ii Vs Ponferradi̇na (option 0)
@@ -375,18 +366,12 @@ acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 acestream://b4d0c55b2a918da310e521b363e1f038247a11b3
 
 #EXTINF:-1, 16:15 | Leganes - Malaga (option 7)
-acestream://5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
-
-#EXTINF:-1, 16:15 | Leganes - Malaga (option 8)
-acestream://172a0843a8f136659ab139af2d247bcfac602d05
-
-#EXTINF:-1, 16:15 | Leganes - Malaga (option 9)
 acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2
 
-#EXTINF:-1, 16:15 | Leganes - Malaga (option 10)
+#EXTINF:-1, 16:15 | Leganes - Malaga (option 8)
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 
-#EXTINF:-1, 16:15 | Leganes - Malaga (option 11)
+#EXTINF:-1, 16:15 | Leganes - Malaga (option 9)
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 
 #EXTINF:-1, 16:15 | Fc Andorra - Burgos Cf (option 0)
@@ -445,9 +430,6 @@ acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 17:30 | Ice Hockey | Mountfield –  Eisbaeren Berlin (option 0)
 acestream://1950633a3723cb52b17c764125decc04445bd5ff
-
-#EXTINF:-1, 17:30 | Ice Hockey | Lukko –  KooKoo (option 0)
-acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
 
 #EXTINF:-1, 18:00 | Falco Szombathely - Ucam Murcia Cb (option 0)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
@@ -522,18 +504,12 @@ acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 acestream://b4d0c55b2a918da310e521b363e1f038247a11b3
 
 #EXTINF:-1, 18:30 | Cd Tenerife - Fc Cartagena (option 7)
-acestream://5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
-
-#EXTINF:-1, 18:30 | Cd Tenerife - Fc Cartagena (option 8)
-acestream://172a0843a8f136659ab139af2d247bcfac602d05
-
-#EXTINF:-1, 18:30 | Cd Tenerife - Fc Cartagena (option 9)
 acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2
 
-#EXTINF:-1, 18:30 | Cd Tenerife - Fc Cartagena (option 10)
+#EXTINF:-1, 18:30 | Cd Tenerife - Fc Cartagena (option 8)
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 
-#EXTINF:-1, 18:30 | Cd Tenerife - Fc Cartagena (option 11)
+#EXTINF:-1, 18:30 | Cd Tenerife - Fc Cartagena (option 9)
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 
 #EXTINF:-1, 18:30 | Alaves - Albacete (option 0)
@@ -610,6 +586,9 @@ acestream://b5c49e8f1bb36964b309b49476b4891b47b94055
 
 #EXTINF:-1, 18:45 | At. Madrid - Club Brugge (option 7)
 acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
+
+#EXTINF:-1, 18:45 | At. Madrid - Club Brugge (option 8)
+acestream://172a0843a8f136659ab139af2d247bcfac602d05
 
 #EXTINF:-1, 18:45 | Napoli - Ajax (option 0)
 acestream://2320cccef777b0d78bdf34f644a925e9d0dd530a
@@ -941,6 +920,15 @@ acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e
 #EXTINF:-1, 20:15 | Basketball | Euroleague | Olimpia Milan-alba Berlin (option 0)
 acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11
 
+#EXTINF:-1, 20:30 | Tennis | WTA. San Diego (option 0)
+acestream://780d7705e15c6695ced40cd5d5a692752523dd21
+
+#EXTINF:-1, 20:30 | Tennis | WTA. San Diego (option 1)
+acestream://8dd0e49065b454748f67ea42b8b026e00c24b3b0
+
+#EXTINF:-1, 20:30 | Tennis | WTA. San Diego (option 2)
+acestream://c9354414ae22fb6d21658d87aba4738bf21a6e72
+
 #EXTINF:-1, 20:30 | Basketball | Euroleague | Baskonia-partizan (option 0)
 acestream://84af46abab9de02bdd22818747738cfa5438132e
 
@@ -1026,18 +1014,21 @@ acestream://b5c49e8f1bb36964b309b49476b4891b47b94055
 acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 
 #EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 8)
-acestream://2320cccef777b0d78bdf34f644a925e9d0dd530a
+acestream://172a0843a8f136659ab139af2d247bcfac602d05
 
 #EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 9)
-acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
+acestream://2320cccef777b0d78bdf34f644a925e9d0dd530a
 
 #EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 10)
-acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
+acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
 
 #EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 11)
-acestream://f2b785193cfa99c581287be39e2fb5a73827957b
+acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
 
 #EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 12)
+acestream://f2b785193cfa99c581287be39e2fb5a73827957b
+
+#EXTINF:-1, 21:00 | Fc Barcelona - Inter Milan (option 13)
 acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 0)
@@ -1155,39 +1146,33 @@ acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 acestream://b4d0c55b2a918da310e521b363e1f038247a11b3
 
 #EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 7)
-acestream://5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
-
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 8)
-acestream://172a0843a8f136659ab139af2d247bcfac602d05
-
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 9)
 acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2
 
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 10)
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 8)
 acestream://ca86f83140bb8a399e637a385722a02834bfb753
 
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 11)
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 9)
 acestream://b888712c494a93739d4f275806d7e4feb4c6d2f8
 
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 12)
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 10)
 acestream://87a043de5d4cd60c731bc00d09f13bad8d882164
 
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 13)
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 11)
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 14)
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 12)
 acestream://6a309c222fe2fc8c3314e2f2d91525b12b374dbf
 
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 15)
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 13)
 acestream://65571fcd215f800b7583cb1039c8ab4d6aa1d8f2
 
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 16)
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 14)
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 17)
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 15)
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 
-#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 18)
+#EXTINF:-1, 21:00 | Racing Santander - Real Zaragoza (option 16)
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 
 #EXTINF:-1, 21:00 | Dinamarca - España (option 0)
