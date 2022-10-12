@@ -92,9 +92,6 @@ acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 #EXTINF:-1, 12:00 | Fc Barcelona Academy - Cd Tortosa (option 0)
 acestream://65c141632af256d70da66c767ba74360042b4396
 
-#EXTINF:-1, 12:00 | Football | Yokohama Marinos –  Jubilo Iwata (option 0)
-acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-
 #EXTINF:-1, 12:00 | Tennis | Atp Challenger Tour | Gijon Open-round 5 (option 0)
 acestream://cb57de633925bc75a2c55c138d8b0ae20d074a92
 
@@ -109,9 +106,6 @@ acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 12:10 | Tennis | ATP. Florence (option 0)
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-
-#EXTINF:-1, 12:30 | Football | Suwon Bluewings –  Daegu (option 0)
-acestream://4b129146077c1e357e4ab341448b9fb629f939dc
 
 #EXTINF:-1, 13:00 | Tennis | Atp World Tour 250 | Fiorentina Open (option 0)
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
@@ -185,6 +179,9 @@ acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 #EXTINF:-1, 14:00 | Villarreal B - Ponferradina (option 11)
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 
+#EXTINF:-1, 14:00 | Football |  Atletico Madrid U-19 –   Brugge U-19 (option 0)
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+
 #EXTINF:-1, 14:00 | Football |  Tottenham U-19 –   Eintracht U-19 (option 0)
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 
@@ -193,9 +190,6 @@ acestream://0f32c0131a2d9444996410801f4e18b04384db98
 
 #EXTINF:-1, 14:00 | Football |  Napoli U-19 –   Ajax U-19 (option 1)
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-
-#EXTINF:-1, 14:00 | Football |  Atletico Madrid U-19 –   Brugge U-19 (option 0)
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 
 #EXTINF:-1, 14:00 | Combat Sport | World Championship, Tashkent (option 0)
 acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
@@ -474,9 +468,6 @@ acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
 #EXTINF:-1, 16:30 | Tennis | Atp Challenger Tour | Gijon Open-round 7 (option 3)
-acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
-
-#EXTINF:-1, 17:30 | T. Monteiro - P. Carreño (option 0)
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
 #EXTINF:-1, 18:00 | Falco Szombathely - Ucam Murcia Cb (option 0)
@@ -981,13 +972,13 @@ acestream://f2b785193cfa99c581287be39e2fb5a73827957b
 acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 5)
-acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
+acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 6)
-acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94
+acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 7)
-acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
+acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94
 
 #EXTINF:-1, 21:00 | Rangers Fc - Liverpool (option 8)
 acestream://297fab10d7364ca1991fa43fcff469573688ce7a
